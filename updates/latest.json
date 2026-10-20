@@ -1,25 +1,26 @@
 {
-  "versionName": "1.2.5",
-  "versionCode": 8,
-  "build": "github-v1.2.5",
+  "versionName": "1.2.6",
+  "versionCode": 9,
+  "build": "github-v1.2.6",
   "notes": [
-    "Automatic update checks with Update now and Later.",
-    "Verified GitHub downloads and Android signing identity checks.",
-    "Modern Live Sports icon."
+    "Stable phone scrolling and a Multi View footer.",
+    "Compact TV guide with schedule visible immediately.",
+    "Repaired video player, desktop schedule bridge and Windows launcher icon.",
+    "Completed events move below upcoming games."
   ],
-  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.5/Live-Sports-1.2.5.apk",
-  "sha256": "febf38bc84cfc3af134de4c7e862f2ecb81300ecaa5f68ed3277e9afe7a046d9",
-  "bytes": 4343449,
+  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.6/Live-Sports-1.2.6.apk",
+  "sha256": "05dd06673ae0e6ab5cfa744aabf0e8ab60ed79185a8610967846628921f7aea4",
+  "bytes": 4392755,
   "windows": {
-    "name": "Live-Sports-Windows-Setup-1.2.5.exe",
-    "bytes": 162341999,
-    "sha256": "40c66b373d470103b0d151d51dfef3d2bd422199991a324a623f3d28aad49593",
-    "url": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.5/Live-Sports-Windows-Setup-1.2.5.exe"
+    "name": "Live-Sports-Windows-Setup-1.2.6.exe",
+    "bytes": 162335236,
+    "sha256": "6d6eecbd65db071fa012452ede0dabb723261452ec8cbb9891c15e0bc9a0c033",
+    "url": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.6/Live-Sports-Windows-Setup-1.2.6.exe"
   },
   "linux": {
-    "name": "Live-Sports-1.2.5.flatpak",
-    "bytes": 93173080,
-    "sha256": "107ab13c4d8324b7a67bc3c0466388dee162c2f2b47e3abdfd80879f2c58c5a2",
-    "url": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.5/Live-Sports-1.2.5.flatpak"
+    "name": "Live-Sports-1.2.6.flatpak",
+    "bytes": 93177184,
+    "sha256": "a5fae474b5fd77f800537a34428291fba80e75f16ef83fb250c60f6dca18637b",
+    "url": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.6/Live-Sports-1.2.6.flatpak"
   }
 }
