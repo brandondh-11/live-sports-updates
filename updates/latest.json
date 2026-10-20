@@ -1,0 +1,25 @@
+{
+  "versionName": "1.2.5",
+  "versionCode": 8,
+  "build": "github-v1.2.5",
+  "notes": [
+    "Automatic update checks with Update now and Later.",
+    "Verified GitHub downloads and Android signing identity checks.",
+    "Modern Live Sports icon."
+  ],
+  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.5/Live-Sports-1.2.5.apk",
+  "sha256": "febf38bc84cfc3af134de4c7e862f2ecb81300ecaa5f68ed3277e9afe7a046d9",
+  "bytes": 4343449,
+  "windows": {
+    "name": "Live-Sports-Windows-Setup-1.2.5.exe",
+    "bytes": 162341999,
+    "sha256": "40c66b373d470103b0d151d51dfef3d2bd422199991a324a623f3d28aad49593",
+    "url": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.5/Live-Sports-Windows-Setup-1.2.5.exe"
+  },
+  "linux": {
+    "name": "Live-Sports-1.2.5.flatpak",
+    "bytes": 93173080,
+    "sha256": "107ab13c4d8324b7a67bc3c0466388dee162c2f2b47e3abdfd80879f2c58c5a2",
+    "url": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.5/Live-Sports-1.2.5.flatpak"
+  }
+}
