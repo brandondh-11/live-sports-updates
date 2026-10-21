@@ -1,26 +1,27 @@
 {
-  "versionName": "1.2.10",
-  "versionCode": 13,
-  "build": "github-v1.2.10",
+  "versionName": "1.2.11",
+  "versionCode": 14,
+  "build": "github-v1.2.11",
   "notes": [
-    "Update checks recover from stalled requests and re-enable Check again.",
-    "Desktop update requests use the system network connection settings.",
-    "Added a top-right X to close the desktop app, including full-screen mode.",
-    "Includes the TV schedule, remote navigation and AEW fixes from 1.2.9."
+    "TV highlighted matchup is a compact horizontal panel centered at the top.",
+    "TV schedule now spans the screen from left to right.",
+    "Remote focus updates the matchup without starting playback, with less redraw and background work.",
+    "Double-press Down to focus Play All, including an empty lineup. Holding Down browses normally.",
+    "Includes the Windows updater recovery and top-right close button from 1.2.10."
   ],
-  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.10/Live-Sports-1.2.10.apk",
-  "sha256": "5f6fbb545f6576ba552b7842b57195e0a5f7915e331dc801ad40c5960013f9d7",
+  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.11/Live-Sports-1.2.11.apk",
+  "sha256": "bde42e451499d9c11c0d332a71a141baeaa23e3c33a28ef6349536688782a8b8",
   "bytes": 4396919,
   "windows": {
-    "name": "Live-Sports-Windows-Setup-1.2.10.exe",
-    "bytes": 162340799,
-    "sha256": "a37eccb295ee108e074d2181e0457f4aeafb59f42a79fd48c974ccb55c4e7a5b",
-    "url": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.10/Live-Sports-Windows-Setup-1.2.10.exe"
+    "name": "Live-Sports-Windows-Setup-1.2.11.exe",
+    "bytes": 162342036,
+    "sha256": "1129e0e1cf892414046b065e93d41ff44f98d021dcd28e29d8ab5ceaf90e9cfa",
+    "url": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.11/Live-Sports-Windows-Setup-1.2.11.exe"
   },
   "linux": {
-    "name": "Live-Sports-1.2.10.flatpak",
-    "bytes": 93193856,
-    "sha256": "482fb9056e1385cccd6342f2407f126e41ae81e429f76d0553049de25a5d21f8",
-    "url": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.10/Live-Sports-1.2.10.flatpak"
+    "name": "Live-Sports-1.2.11.flatpak",
+    "bytes": 93180592,
+    "sha256": "65d6af7c9da895eba23b4a3b1f55d4145f9e7c6c6a37d45cf233e4fb5bf86039",
+    "url": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.11/Live-Sports-1.2.11.flatpak"
   }
 }
