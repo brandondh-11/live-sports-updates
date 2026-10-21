@@ -1,26 +1,30 @@
 {
-  "versionName": "1.2.8",
-  "versionCode": 11,
-  "build": "github-v1.2.8",
+  "versionName": "1.2.9",
+  "versionCode": 12,
+  "build": "github-v1.2.9",
   "notes": [
-    "AEW weekly schedules load the full episode guide, with confirmed dated fallback.",
-    "Stable tablet matchup with centered scores and opposing teams.",
-    "Removed Watch full screen and Multi View buttons from matchup cards.",
-    "TV dates moved beside the Live Sports logo; background refresh keeps the header stationary."
+    "Today opens on the first matchup in the fully loaded schedule.",
+    "Manual matchup choices survive late-arriving schedules and background refreshes.",
+    "Phone matchup cards are more compact.",
+    "Professional teams display their nickname; college teams keep their school name.",
+    "More responsive TV remote navigation with compact, fully visible focus outlines.",
+    "TV schedule stacks teams on the left and scores on the right with centered live clocks, football downs and baseball/softball inning status.",
+    "Confirmed AEW events remain listed when the TV episode feed omits them.",
+    "Matchup details remove channel labels and Remind me. Press Down twice quickly on TV to focus Play All."
   ],
-  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.8/Live-Sports-1.2.8.apk",
-  "sha256": "1bba65d7284e609f88eae6859eaaa8591c6f923d4a738098c07ff55d0ac58436",
-  "bytes": 4392823,
+  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.9/Live-Sports-1.2.9.apk",
+  "sha256": "41e550f808af8aa4c05a32256657435df6eca1f25e9a1dea921206218341e3c4",
+  "bytes": 4396919,
   "windows": {
-    "name": "Live-Sports-Windows-Setup-1.2.8.exe",
-    "bytes": 162338460,
-    "sha256": "d169c1ffc8b1278034d518614c0ebdda0fc66738deb598f9160e467b78cb166f",
-    "url": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.8/Live-Sports-Windows-Setup-1.2.8.exe"
+    "name": "Live-Sports-Windows-Setup-1.2.9.exe",
+    "bytes": 162339920,
+    "sha256": "df20008d8de7b93e3da952575f4d02f343d5dc389a550e7fe36892c61a63f520",
+    "url": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.9/Live-Sports-Windows-Setup-1.2.9.exe"
   },
   "linux": {
-    "name": "Live-Sports-1.2.8.flatpak",
-    "bytes": 93183920,
-    "sha256": "8e53cb4f754ae00259a44cce4501c87f3208909cf8977e612d8afd1c1a02aae6",
-    "url": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.8/Live-Sports-1.2.8.flatpak"
+    "name": "Live-Sports-1.2.9.flatpak",
+    "bytes": 93177808,
+    "sha256": "699902b17308e812ab28cdc30ff254aa732084c7b6f2910eb0b2e27931427fb9",
+    "url": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.9/Live-Sports-1.2.9.flatpak"
   }
 }
