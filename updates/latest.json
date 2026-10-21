@@ -1,28 +1,27 @@
 {
-  "versionName": "1.2.13",
-  "versionCode": 16,
-  "build": "github-v1.2.13",
+  "versionName": "1.2.14",
+  "versionCode": 17,
+  "build": "github-v1.2.14",
   "notes": [
-    "Clearer TV focus with a bright border and contrasting background.",
-    "Compact, Standard and Large TV text and row sizes in Settings.",
-    "Sticky league headings while scrolling the TV schedule.",
-    "Return from streams and Multi View to the same highlighted game and schedule position.",
-    "Numbered Multi View selections and a Play All count.",
-    "Removed team favorites, prior favorite highlights, saved teams and favorite-team alerts."
+    "TV schedule starts directly below the date header and fills the available width.",
+    "Removed the TV matchup card, Live Now and Multi View top buttons, guide title, repeated date and event count.",
+    "Faster remote movement with no hidden matchup preview work.",
+    "Press Down twice quickly to focus Play All. Holding Down browses rows; Up returns to the highlighted game.",
+    "Team favorites remain removed."
   ],
-  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.13/Live-Sports-1.2.13.apk",
-  "sha256": "7f8e4bdae0c37cff114be98cb9bf83f8e3725a70c478034b62b0f62ff989af6d",
+  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.14/Live-Sports-1.2.14.apk",
+  "sha256": "889f4e2d500f3dbd04027f31b48583c75b400189e1df0ff7377f935549c8db78",
   "bytes": 4396919,
   "windows": {
-    "name": "Live-Sports-Windows-Setup-1.2.13.exe",
-    "bytes": 162338902,
-    "sha256": "098e6206a1b06b0634028d5679b20fcbf3339dc88da6003352d96c9324d3d78f",
-    "url": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.13/Live-Sports-Windows-Setup-1.2.13.exe"
+    "name": "Live-Sports-Windows-Setup-1.2.14.exe",
+    "bytes": 162339439,
+    "sha256": "3259cbc45c9b322648526747904da4f8e42459722cc5f32a8b49eeb12bbf1144",
+    "url": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.14/Live-Sports-Windows-Setup-1.2.14.exe"
   },
   "linux": {
-    "name": "Live-Sports-1.2.13.flatpak",
-    "bytes": 93191768,
-    "sha256": "e491d0f3def98092e29e2546d29cfe296b84bfd36a3fa4843ff24c5306b47ae0",
-    "url": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.13/Live-Sports-1.2.13.flatpak"
+    "name": "Live-Sports-1.2.14.flatpak",
+    "bytes": 93192432,
+    "sha256": "ffa49858afafd96964cbc14e153385fd23b32690704e1988e39a9d72bea28b88",
+    "url": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.14/Live-Sports-1.2.14.flatpak"
   }
 }
