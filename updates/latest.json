@@ -1,26 +1,27 @@
 {
-  "versionName": "1.2.21",
-  "versionCode": 24,
-  "build": "github-v1.2.21",
+  "versionName": "1.2.22",
+  "versionCode": 25,
+  "build": "github-v1.2.22",
   "notes": [
-    "Schedule rows appear as sources load instead of waiting for every request.",
-    "Fresh saved schedules load again after reopening; background days no longer repaint the visible guide unnecessarily.",
-    "TV Search has a stable window and a separate scrolling results area, including 4K displays.",
-    "Includes week-ahead team/sport Search, ROH schedule recovery, wrestling source priority and Multi View recovery improvements from 1.2.19 and 1.2.20."
+    "Fixes severe TV keyboard lag by reusing date formatters and showing search results in smaller pages.",
+    "Schedule loading now yields to typing and IME composition; the guide is not rebuilt behind open dialogs.",
+    "Startup reads saved schedules incrementally; slow wrestling metadata no longer blocks live scores or update requests on Android.",
+    "Alarm restoration runs off the UI thread; unchanged reminders are not repeatedly cancelled and scheduled.",
+    "TV startup keeps the system display mode and avoids expensive backdrop blur. Includes callback cleanup and rolling schedule-cache fixes."
   ],
-  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.21/Live-Sports-1.2.21.apk",
-  "sha256": "ccb780ea770097dad1f62f2bcf707a0a77fffc5d71a3a69ae5abb08dfcd2acb5",
-  "bytes": 4409412,
+  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.22/Live-Sports-1.2.22.apk",
+  "sha256": "8ec01e1c5a5f74b0187bd460f538fd54b2265a6f717d8316a7a600abbafa501c",
+  "bytes": 4413508,
   "windows": {
-    "name": "Live-Sports-Windows-Setup-1.2.21.exe",
-    "bytes": 162346956,
-    "sha256": "bab51011b826f0cf5d535c71b8fab4e18a07d911f22bb4cefff5c19502dd43cb",
-    "url": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.21/Live-Sports-Windows-Setup-1.2.21.exe"
+    "name": "Live-Sports-Windows-Setup-1.2.22.exe",
+    "bytes": 162348695,
+    "sha256": "eeaf4e74ffc2aba30f5ddbccc1e0f1c3fc20d78eafad5d70311ac36462ad1961",
+    "url": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.22/Live-Sports-Windows-Setup-1.2.22.exe"
   },
   "linux": {
-    "name": "Live-Sports-1.2.21.flatpak",
-    "bytes": 93198408,
-    "sha256": "b730532fca3380953ea89602193f0dfe2f1fc3ccbfb98c2802d196c0cca78730",
-    "url": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.21/Live-Sports-1.2.21.flatpak"
+    "name": "Live-Sports-1.2.22.flatpak",
+    "bytes": 93190296,
+    "sha256": "954facc81756753e0ba7a185912bb66f4ebb005a5bd07eb375546fd66293a94f",
+    "url": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.22/Live-Sports-1.2.22.flatpak"
   }
 }
