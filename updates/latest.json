@@ -1,28 +1,27 @@
 {
-  "versionName": "1.2.17",
-  "versionCode": 20,
-  "build": "github-v1.2.17",
+  "versionName": "1.2.18",
+  "versionCode": 21,
+  "build": "github-v1.2.18",
   "notes": [
-    "Equal, borderless multiview tiles with hidden controls on tablet and TV.",
-    "Progressive, bounded Watch All link lookup with clear missing-link recovery.",
-    "WNBA stream directory enabled with team and game-date validation.",
-    "Multiview selections clear when the app session ends.",
-    "Guide starts at the top in every layout without the matchup panel or view buttons.",
-    "Removed left-side Live, Final and Upcoming schedule labels."
+    "Prolonged buffering after playback starts restores player recovery controls. Manual stream-link edits no longer trigger an unexpected automatic launch when a lookup finishes.",
+    "Suggested replacement streams correctly enable Play after invalid input.",
+    "Native player launch errors keep the dialog open with recovery instructions.",
+    "Unsupported browser sessions cannot enable a nonworking playback button.",
+    "Remote navigation remains usable when Play All is missing."
   ],
-  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.17/Live-Sports-1.2.17.apk",
-  "sha256": "3d8925bfd72a99e0fb551f7a20d2c8e070045542989180485f953ee90d4cdcde",
+  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.18/Live-Sports-1.2.18.apk",
+  "sha256": "6a41d9d68237fa5cda0107486886a06bec4fb83e92a7515dca4c0532c9473a67",
   "bytes": 4405181,
   "windows": {
-    "name": "Live-Sports-Windows-Setup-1.2.17.exe",
-    "bytes": 162342088,
-    "sha256": "9a033dffb069070b670d045012dab08edb785f2fa8f97381046112729e5921b8",
-    "url": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.17/Live-Sports-Windows-Setup-1.2.17.exe"
+    "name": "Live-Sports-Windows-Setup-1.2.18.exe",
+    "bytes": 162342607,
+    "sha256": "2c18bdbbd6a5254f5ac404b69ae7955569d1fca9601513564e2cb094106d1104",
+    "url": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.18/Live-Sports-Windows-Setup-1.2.18.exe"
   },
   "linux": {
-    "name": "Live-Sports-1.2.17.flatpak",
-    "bytes": 93186592,
-    "sha256": "f826615f79183495cfaacd1aa65632fd6174e5c572b8a667cd70515b24cfd359",
-    "url": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.17/Live-Sports-1.2.17.flatpak"
+    "name": "Live-Sports-1.2.18.flatpak",
+    "bytes": 93195776,
+    "sha256": "25b5aa0833a97d8c121023f565735d95fb052a759ba212acbd6f019d9280d64e",
+    "url": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.18/Live-Sports-1.2.18.flatpak"
   }
 }
