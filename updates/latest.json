@@ -1,28 +1,28 @@
 {
-  "versionName": "1.2.15",
-  "versionCode": 18,
-  "build": "github-v1.2.15",
+  "versionName": "1.2.16",
+  "versionCode": 19,
+  "build": "github-v1.2.16",
   "notes": [
-    "Removed double-Down: rapid taps and held Down browse the TV guide normally.",
-    "Remote focus skips the inactive app logo and follows header controls, dates, schedule rows and footer.",
-    "Routine schedule refreshes run silently and keep Refresh focused and enabled.",
-    "Background schedule paints wait briefly while the remote is moving.",
-    "Sport names and logos are centered in sticky schedule headings.",
-    "TV exit returns to the launcher before WebView cleanup."
+    "TV opens with the first chronological game and scroll position aligned.",
+    "Centered wrestling clocks, no Upcoming label, and larger schedule logos.",
+    "Down from the final game focuses Play All directly.",
+    "League-branded Starting screen replaces the default gray video poster.",
+    "Retry, Choose another stream and Back when playback stalls.",
+    "Stable game buttons during score refreshes and restored position after playback."
   ],
-  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.15/Live-Sports-1.2.15.apk",
-  "sha256": "aae0578ddb1a58aefa5eef70049d11024eaee48064ee47389e7e3f4e0de90832",
-  "bytes": 4396919,
+  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.16/Live-Sports-1.2.16.apk",
+  "sha256": "b63ae6f63ea63f6b4f3b089013fa7a2c09dbf65cae0bf145d500002d9bf810c6",
+  "bytes": 4405181,
   "windows": {
-    "name": "Live-Sports-Windows-Setup-1.2.15.exe",
-    "bytes": 162339520,
-    "sha256": "b96eec39ab70c148e98e6f7fc30a9177e998f4d72be6652ee466dc2dcfeb50fc",
-    "url": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.15/Live-Sports-Windows-Setup-1.2.15.exe"
+    "name": "Live-Sports-Windows-Setup-1.2.16.exe",
+    "bytes": 162341613,
+    "sha256": "fe5c82574cd9458de41d5676fe270deb6967614d31b79c242353cc4456173769",
+    "url": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.16/Live-Sports-Windows-Setup-1.2.16.exe"
   },
   "linux": {
-    "name": "Live-Sports-1.2.15.flatpak",
-    "bytes": 93188424,
-    "sha256": "a47ec9912c96bcc03d45d2eba190a7c7cd8147ff19fb1daa65c4077c602b9a78",
-    "url": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.15/Live-Sports-1.2.15.flatpak"
+    "name": "Live-Sports-1.2.16.flatpak",
+    "bytes": 93186736,
+    "sha256": "ddf7e715ac51bfc77b8e7241b02055aa2512366de7ca4e401b503a8de1224faf",
+    "url": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.16/Live-Sports-1.2.16.flatpak"
   }
 }
