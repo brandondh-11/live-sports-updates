@@ -1,25 +1,25 @@
 {
-  "versionName": "1.2.29",
-  "versionCode": 32,
-  "build": "github-v1.2.29",
+  "versionName": "1.2.30",
+  "versionCode": 33,
+  "build": "github-v1.2.30",
   "notes": [
-    "TV scores and game clocks sit together at the vertical middle of each game box.",
-    "Optional down, distance and other game details sit below the centered score and clock without reserving an empty row.",
-    "Includes 12-mode layout geometry checks and deep UI, remote, playback and performance regressions."
+    "Restores UFC/MMA events from current CrackStreams live-event links, including the dated UFC 333 listing.",
+    "Retains legacy live links across schedule imports, wrestling matching and Android/desktop player resolution.",
+    "Includes real-listing parser fixtures, native URL checks, Tomorrow schedule rendering and deep UI/performance/recovery regressions."
   ],
-  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.29/Live-Sports-1.2.29.apk",
-  "sha256": "abff4c624a54b276d80077eacd2efd1963bb6f7de26186dc4a9dc74bd5813594",
+  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.30/Live-Sports-1.2.30.apk",
+  "sha256": "9dc034297c5e07236d8ed447a1d156ec3664862d65992dfad4a123e7cb4c2de7",
   "bytes": 4442834,
   "windows": {
-    "name": "Live-Sports-Windows-Setup-1.2.29.exe",
-    "bytes": 162371147,
-    "sha256": "13480cc3ad4cb991238d2d7ef1b759826559dc61b9b1d78e5cd1835577c5a893",
-    "url": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.29/Live-Sports-Windows-Setup-1.2.29.exe"
+    "name": "Live-Sports-Windows-Setup-1.2.30.exe",
+    "bytes": 162371318,
+    "sha256": "3213d7dd9d3b887748460a3d9ead9af0873629801140365c8f35ab52cfd6216d",
+    "url": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.30/Live-Sports-Windows-Setup-1.2.30.exe"
   },
   "linux": {
-    "name": "Live-Sports-1.2.29.flatpak",
-    "bytes": 93211408,
-    "sha256": "3397f74984cebbe9250ebf8e987ef3c470eadeab340e16510adcbb755d058911",
-    "url": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.29/Live-Sports-1.2.29.flatpak"
+    "name": "Live-Sports-1.2.30.flatpak",
+    "bytes": 93208168,
+    "sha256": "657542af1599a6100407bd9df8eba0964425197cc5958962bc58b743adc98062",
+    "url": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.30/Live-Sports-1.2.30.flatpak"
   }
 }
