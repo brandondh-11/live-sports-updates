@@ -1,28 +1,28 @@
 {
-  "versionName": "1.2.23",
-  "versionCode": 26,
-  "build": "github-v1.2.23",
+  "versionName": "1.2.24",
+  "versionCode": 27,
+  "build": "github-v1.2.24",
   "notes": [
-    "TV remembers the selected day, sport and focused game when returning from playback or reopening the app.",
-    "Stronger TV contrast and a clear focus outline keep remote navigation easy to follow.",
-    "One press starts an available stream; Try next source checks another matching link on demand.",
-    "Back dismisses the keyboard, then the open panel. Exit confirmation appears only on the main TV guide.",
-    "ROH and TNA check Watch Wrestling first, using exact dated listings; other wrestling retains its source order.",
-    "Includes regression checks for startup, typing, focus restoration, source failure and large schedules."
+    "Native TV recovery controls support D-pad navigation and OK for Retry, Try next source, View player and Back.",
+    "Every player starts with its local league logo, including ROH, TNA and CMLL; fixed Android image content types.",
+    "Wrestling player pages select their normal source buttons automatically and can advance through their mirrors.",
+    "Added dated WWE, NXT, boxing and MMA events; CrackStreams is their primary stream source.",
+    "Added real Android emulator remote checks, decoded-video browser recovery checks and deep performance regressions.",
+    "Detailed PDF bug reports are now required for every app update."
   ],
-  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.23/Live-Sports-1.2.23.apk",
-  "sha256": "7bd0183f50e7285dbabf5a027e2c2b622db4150d96427167333f23f88659ed00",
-  "bytes": 4421985,
+  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.24/Live-Sports-1.2.24.apk",
+  "sha256": "9568570946db6c26433bdcf7df4e99b3fb04da4a7aaa79403ba315e082c768c4",
+  "bytes": 4442834,
   "windows": {
-    "name": "Live-Sports-Windows-Setup-1.2.23.exe",
-    "bytes": 162356170,
-    "sha256": "f38daf0c01886610620603eb222392201940887ffe8e7b4c6c6c9c53226de2ff",
-    "url": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.23/Live-Sports-Windows-Setup-1.2.23.exe"
+    "name": "Live-Sports-Windows-Setup-1.2.24.exe",
+    "bytes": 162368773,
+    "sha256": "4537c28393d20f965305d453e33aac5a426b3b756b12fc5b264097ddfc47873d",
+    "url": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.24/Live-Sports-Windows-Setup-1.2.24.exe"
   },
   "linux": {
-    "name": "Live-Sports-1.2.23.flatpak",
-    "bytes": 93198928,
-    "sha256": "3fd28bd3c96cab9a624ccf2d8fcda1324d5497a7c149bc7c78ce04933eaea4f9",
-    "url": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.23/Live-Sports-1.2.23.flatpak"
+    "name": "Live-Sports-1.2.24.flatpak",
+    "bytes": 93211288,
+    "sha256": "d7bfb3cf86228ce61aebc3199f3f66e46c8026bd7b64e6b991a8bc077e44e5fe",
+    "url": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.24/Live-Sports-1.2.24.flatpak"
   }
 }
