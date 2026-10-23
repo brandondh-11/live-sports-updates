@@ -1,26 +1,26 @@
 {
-  "versionName": "1.2.31",
-  "versionCode": 34,
-  "build": "github-v1.2.31",
+  "versionName": "1.2.32",
+  "versionCode": 35,
+  "build": "github-v1.2.32",
   "notes": [
-    "Previously loaded UFC and other show listings appear immediately when changing dates while schedules refresh in the background.",
-    "Restores saved weekly show snapshots at startup, including compatible prior-version MMA directory cache, with conservative cached status.",
-    "UFC/boxing/wrestling directories have a separate bounded Android request pool so slow schedule services cannot hold them up.",
-    "Includes cold-start/date-switch cache tests, invalid-cache checks, deep UI, keyboard, native recovery and performance regressions."
+    "TV opens at the first event at the top of Today, including staged cached and fresh schedule loading.",
+    "Startup dialogs and deferred refreshes no longer anchor the guide to a middle event.",
+    "Remote navigation and returns from streams retain the chosen game.",
+    "Includes deep startup, layout, remote, keyboard, player and performance regression checks."
   ],
-  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.31/Live-Sports-1.2.31.apk",
-  "sha256": "e25d43dd849f4a1da60510758179abcdf78467809675f0b0bc4935178f562af8",
+  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.32/Live-Sports-1.2.32.apk",
+  "sha256": "116a8c16e9de80a086a18d4f6100a83ef12c1e417998eadf25a7633052e60d05",
   "bytes": 4446930,
   "windows": {
-    "name": "Live-Sports-Windows-Setup-1.2.31.exe",
-    "bytes": 162372456,
-    "sha256": "728116ead978cab0240357ddf1e8ffb97c3606c974239b30259296990cfd649d",
-    "url": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.31/Live-Sports-Windows-Setup-1.2.31.exe"
+    "name": "Live-Sports-Windows-Setup-1.2.32.exe",
+    "bytes": 162372622,
+    "sha256": "4ad1b63550b7c5d07ddfeb3f6cec049829942d19f40e070df4ae91ab980c2af1",
+    "url": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.32/Live-Sports-Windows-Setup-1.2.32.exe"
   },
   "linux": {
-    "name": "Live-Sports-1.2.31.flatpak",
-    "bytes": 93216944,
-    "sha256": "40c2e9da1500ad59c00b370dbfd698b4da9be0fd7a8ea21b3c550b7c19ab6574",
-    "url": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.31/Live-Sports-1.2.31.flatpak"
+    "name": "Live-Sports-1.2.32.flatpak",
+    "bytes": 93213616,
+    "sha256": "8a6f701ba1ee267c4081bfd4fedc7f6f9bafd875b65482c4b21595791e10297b",
+    "url": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.32/Live-Sports-1.2.32.flatpak"
   }
 }
