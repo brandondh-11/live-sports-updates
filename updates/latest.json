@@ -1,26 +1,25 @@
 {
-  "versionName": "1.2.28",
-  "versionCode": 31,
-  "build": "github-v1.2.28",
+  "versionName": "1.2.29",
+  "versionCode": 32,
+  "build": "github-v1.2.29",
   "notes": [
-    "TV opens on Today with the first game fully below the league banner.",
-    "Keeps the selected game when returning from playback; normal foreground opens return to Today.",
-    "Fixes hidden filter selection and preserves row visibility after redraws and resizing.",
-    "Reduces repeated guide sorting, anchor lookups and remote target allocations; includes deep UI, performance and native recovery checks."
+    "TV scores and game clocks sit together at the vertical middle of each game box.",
+    "Optional down, distance and other game details sit below the centered score and clock without reserving an empty row.",
+    "Includes 12-mode layout geometry checks and deep UI, remote, playback and performance regressions."
   ],
-  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.28/Live-Sports-1.2.28.apk",
-  "sha256": "2353f9a17bd017faa093cd52404f53c692c484f239cf5a8ba12af69e7a989582",
+  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.29/Live-Sports-1.2.29.apk",
+  "sha256": "abff4c624a54b276d80077eacd2efd1963bb6f7de26186dc4a9dc74bd5813594",
   "bytes": 4442834,
   "windows": {
-    "name": "Live-Sports-Windows-Setup-1.2.28.exe",
-    "bytes": 162370925,
-    "sha256": "1e55025b4a367c1415d16651b0c0894adf95b1d89c16f6d48e958b8cef867f82",
-    "url": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.28/Live-Sports-Windows-Setup-1.2.28.exe"
+    "name": "Live-Sports-Windows-Setup-1.2.29.exe",
+    "bytes": 162371147,
+    "sha256": "13480cc3ad4cb991238d2d7ef1b759826559dc61b9b1d78e5cd1835577c5a893",
+    "url": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.29/Live-Sports-Windows-Setup-1.2.29.exe"
   },
   "linux": {
-    "name": "Live-Sports-1.2.28.flatpak",
-    "bytes": 93208520,
-    "sha256": "8164bf4d36f193c6de6136f31c267d919d1b9253cebc6b37665bfbbed594bd35",
-    "url": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.28/Live-Sports-1.2.28.flatpak"
+    "name": "Live-Sports-1.2.29.flatpak",
+    "bytes": 93211408,
+    "sha256": "3397f74984cebbe9250ebf8e987ef3c470eadeab340e16510adcbb755d058911",
+    "url": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.29/Live-Sports-1.2.29.flatpak"
   }
 }
