@@ -1,26 +1,26 @@
 {
-  "versionName": "1.2.35",
-  "versionCode": 38,
-  "build": "github-v1.2.35",
+  "versionName": "1.2.36",
+  "versionCode": 39,
+  "build": "github-v1.2.36",
   "notes": [
-    "TV multiview opens a game full screen with one click; Back returns to the grid.",
-    "New event link format is recognized; missing links offer Retry or Play available games without opening the keyboard.",
-    "Improved single-stream native playback, bounded HLS recovery and multiview loading focus.",
-    "Deep player, multiview, remote, lifecycle and speed checks."
+    "Fix NC State–Stanford stream matching for North Carolina State naming.",
+    "Recognize published sport-specific /live/cfb/ event addresses across all systems.",
+    "Preserve exact opponent/date matching, six-game recovery, and single-click TV full screen.",
+    "Includes deep cross-platform player, remote, startup and performance checks."
   ],
-  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.35/Live-Sports-1.2.35.apk",
-  "sha256": "413a4f4aea2ca7cbebbb91d9b50ea14a77ea582f8b24b171f4d78ad7a245c79a",
+  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.36/Live-Sports-1.2.36.apk",
+  "sha256": "5361f55a99fb54a1abb1232070f393d3114daf45a247884bcf3aec504a509ae9",
   "bytes": 4446930,
   "windows": {
-    "name": "Live-Sports-Windows-Setup-1.2.35.exe",
-    "bytes": 162373988,
-    "sha256": "9d73ab48f96ba7d917bffdcac23e837394f102bfd01b5d152ac56f8c44cc9632",
-    "url": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.35/Live-Sports-Windows-Setup-1.2.35.exe"
+    "name": "Live-Sports-Windows-Setup-1.2.36.exe",
+    "bytes": 162374180,
+    "sha256": "2985e445df32e51faf4d68a6bec6691b2167fe9737ff2368600de855afbb547c",
+    "url": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.36/Live-Sports-Windows-Setup-1.2.36.exe"
   },
   "linux": {
-    "name": "Live-Sports-1.2.35.flatpak",
-    "bytes": 93211136,
-    "sha256": "02de7eff389bd699b7872c35f0e461fbf6b35a7861c1f42d4e908a0c7f01745a",
-    "url": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.35/Live-Sports-1.2.35.flatpak"
+    "name": "Live-Sports-1.2.36.flatpak",
+    "bytes": 93213600,
+    "sha256": "6dfe63e0f2d2d269d91bf6328ac51051d9c794284847d8d01bd1a709830702ee",
+    "url": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.36/Live-Sports-1.2.36.flatpak"
   }
 }
