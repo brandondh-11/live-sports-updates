@@ -1,26 +1,25 @@
 {
-  "versionName": "1.2.38",
-  "versionCode": 41,
-  "build": "github-v1.2.38",
+  "versionName": "1.2.39",
+  "versionCode": 42,
+  "build": "github-v1.2.39",
   "notes": [
-    "More accurate team-name matching, including SMU, BYU, Hawaii and Miami (OH).",
-    "Event dates and start times disambiguate streams; uncertain matches require a choice.",
-    "Scheduled live colors update at the clock boundary without moving focus.",
-    "Fresh dated show sources, corrected browser cache, and deep decoded-playback regression checks."
+    "Automatic same-event server failover followed by matched event sources, with bounded recovery per pane.",
+    "TV recovery buttons work inside multiview; other games keep playing.",
+    "Boxing gloves and MMA fighter logos; feed-backed finals labels and golden championship cards."
   ],
-  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.38/Live-Sports-1.2.38.apk",
-  "sha256": "ccc9fde7af97dd9db4399c9d66bd07d8b5ef006d6f9f36458f87630d1a63acb3",
-  "bytes": 4451094,
+  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.39/Live-Sports-1.2.39.apk",
+  "sha256": "cc136bc7383b050cdd070bff1373758906d7579e6257bf3f960949944c79f899",
+  "bytes": 4484013,
   "windows": {
-    "name": "Live-Sports-Windows-Setup-1.2.38.exe",
-    "bytes": 162377086,
-    "sha256": "bcff946650800f51e5aed78037349e29e3fbdaf76738091edcca3399df8719fe",
-    "url": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.38/Live-Sports-Windows-Setup-1.2.38.exe"
+    "name": "Live-Sports-Windows-Setup-1.2.39.exe",
+    "bytes": 162407349,
+    "sha256": "87d7efba2b372417b2dbb5ffc7498bc0a5bbd0867d8a6808d3fe02fdca29e28b",
+    "url": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.39/Live-Sports-Windows-Setup-1.2.39.exe"
   },
   "linux": {
-    "name": "Live-Sports-1.2.38.flatpak",
-    "bytes": 93217352,
-    "sha256": "8ba9c28a2fb6dea61646b169b8d26aaa4dcd49f8e711505257c53d944457119b",
-    "url": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.38/Live-Sports-1.2.38.flatpak"
+    "name": "Live-Sports-1.2.39.flatpak",
+    "bytes": 93243800,
+    "sha256": "5fa669474cb673e2ef36abc0009e17cb3dda225f47348afc2bff97dfc3b42cbd",
+    "url": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.39/Live-Sports-1.2.39.flatpak"
   }
 }
