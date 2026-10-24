@@ -1,25 +1,26 @@
 {
-  "versionName": "1.2.39",
-  "versionCode": 42,
-  "build": "github-v1.2.39",
+  "versionName": "1.2.40",
+  "versionCode": 43,
+  "build": "github-v1.2.40",
   "notes": [
     "Automatic same-event server failover followed by matched event sources, with bounded recovery per pane.",
     "TV recovery buttons work inside multiview; other games keep playing.",
+    "Desktop automatically tries the compatibility website player before advancing a failed server.",
     "Boxing gloves and MMA fighter logos; feed-backed finals labels and golden championship cards."
   ],
-  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.39/Live-Sports-1.2.39.apk",
-  "sha256": "cc136bc7383b050cdd070bff1373758906d7579e6257bf3f960949944c79f899",
+  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.40/Live-Sports-1.2.40.apk",
+  "sha256": "33f4d6e2fe75509e7f89159600bab792ec30d930588e8e6ab0888261b3fbc319",
   "bytes": 4484013,
   "windows": {
-    "name": "Live-Sports-Windows-Setup-1.2.39.exe",
-    "bytes": 162407349,
-    "sha256": "87d7efba2b372417b2dbb5ffc7498bc0a5bbd0867d8a6808d3fe02fdca29e28b",
-    "url": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.39/Live-Sports-Windows-Setup-1.2.39.exe"
+    "name": "Live-Sports-Windows-Setup-1.2.40.exe",
+    "bytes": 162407480,
+    "sha256": "0ba91a02dbc3cc9cc2d6d5bd66006032e7f03dad5683485033a91b761979f5c5",
+    "url": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.40/Live-Sports-Windows-Setup-1.2.40.exe"
   },
   "linux": {
-    "name": "Live-Sports-1.2.39.flatpak",
-    "bytes": 93243800,
-    "sha256": "5fa669474cb673e2ef36abc0009e17cb3dda225f47348afc2bff97dfc3b42cbd",
-    "url": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.39/Live-Sports-1.2.39.flatpak"
+    "name": "Live-Sports-1.2.40.flatpak",
+    "bytes": 93250208,
+    "sha256": "de4f97c64c3b53f37679fcd7b998627a7e5bc3eae2df08d1ffc3ee1d19fcf729",
+    "url": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.40/Live-Sports-1.2.40.flatpak"
   }
 }
