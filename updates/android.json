@@ -1,12 +1,14 @@
 {
-  "versionName": "1.2.45",
-  "versionCode": 48,
-  "build": "github-v1.2.45-android",
+  "versionName": "1.2.46",
+  "versionCode": 49,
+  "build": "github-v1.2.46-android",
   "notes": [
-    "Added local playback problem reports with event, server attempts and recent errors.",
-    "Review, copy, save or share reports from Settings and player recovery controls; TV remotes can use Info."
+    "Upcoming game start times are centered above VS.",
+    "Playoff and championship labels include reported series leaders, ties and winners.",
+    "Raw on October 26 starts at 7 PM Central; unknown TVmaze air times no longer become morning broadcasts.",
+    "NFL RedZone appears with regular-season Sunday afternoon NFL games and supports single-player and Multi View."
   ],
-  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.45/Live-Sports-1.2.45.apk",
-  "sha256": "53b029f4979c2647e31effaeb43a79ddc16f89eeb2b03049622c5f6f8f8e5834",
+  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.46/Live-Sports-1.2.46.apk",
+  "sha256": "0b55c6274abb61f41728ee39cccb9def64cb06479592e59bd20cb32aae0b7669",
   "bytes": 4500397
 }
