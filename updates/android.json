@@ -1,12 +1,12 @@
 {
-  "versionName": "1.2.44",
-  "versionCode": 47,
-  "build": "github-v1.2.44-android",
+  "versionName": "1.2.45",
+  "versionCode": 48,
+  "build": "github-v1.2.45-android",
   "notes": [
-    "Removed the incorrect Windows PC label from Settings on phone, tablet and Android TV.",
-    "Completed games highlight the winning score in green across all schedule views."
+    "Added local playback problem reports with event, server attempts and recent errors.",
+    "Review, copy, save or share reports from Settings and player recovery controls; TV remotes can use Info."
   ],
-  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.44/Live-Sports-1.2.44.apk",
-  "sha256": "bb3e5eeffebef522e5fa2095238f3ee311797ad17caee4aa128a85aee3982987",
-  "bytes": 4492205
+  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.45/Live-Sports-1.2.45.apk",
+  "sha256": "53b029f4979c2647e31effaeb43a79ddc16f89eeb2b03049622c5f6f8f8e5834",
+  "bytes": 4500397
 }
