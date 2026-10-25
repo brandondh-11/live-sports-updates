@@ -1,12 +1,12 @@
 {
-  "versionName": "1.2.49",
-  "versionCode": 52,
-  "build": "github-v1.2.49-android",
+  "versionName": "1.2.50",
+  "versionCode": 53,
+  "build": "github-v1.2.50-android",
   "notes": [
-    "Non-team events show their league or sport logo inside the left of each schedule card, including NFL RedZone.",
-    "Upcoming TV start times remain clear of the focus highlight while scrolling."
+    "Restored show channel columns and league logos while keeping a second logo inside each event card.",
+    "Bounded live-video history, released destroyed HLS players, reduced repeated health work, and strengthened multiview pause/resume and queued health checks."
   ],
-  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.49/Live-Sports-1.2.49.apk",
-  "sha256": "01553d9cd465c517056b80e0a21b1995eee64e137f13ffd6b5a349d4d05e3f7f",
+  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.50/Live-Sports-1.2.50.apk",
+  "sha256": "77acb765e4c249fde48848b0dffed9a4a29642d084b745c1d9242f794c45a589",
   "bytes": 4504493
 }
