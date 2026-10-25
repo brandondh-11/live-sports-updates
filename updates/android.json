@@ -1,13 +1,11 @@
 {
-  "versionName": "1.2.41",
-  "versionCode": 44,
-  "build": "github-v1.2.41-android",
+  "versionName": "1.2.42",
+  "versionCode": 45,
+  "build": "github-v1.2.42-android",
   "notes": [
-    "Phone/tablet sensor rotation works in portrait and both landscape directions.",
-    "Single-video full screen hides system bars and keeps the playing stream during rotation.",
-    "Android-only update channel; desktop versions remain paused at 1.2.40."
+    "Championship and playoff titles are centered along the bottom of schedule cards on phone, tablet and Android TV."
   ],
-  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.41/Live-Sports-1.2.41.apk",
-  "sha256": "8141eb4f0914fdea49909705b01901bca966eb9e030449064b19db0b57162ffe",
+  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.42/Live-Sports-1.2.42.apk",
+  "sha256": "59e93fd9abec804ce40db10b86b7b0dcbb545aca1ccce3b6b953ed213207fed2",
   "bytes": 4488109
 }
