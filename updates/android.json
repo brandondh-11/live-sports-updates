@@ -1,12 +1,11 @@
 {
-  "versionName": "1.2.50",
-  "versionCode": 53,
-  "build": "github-v1.2.50-android",
+  "versionName": "1.2.51",
+  "versionCode": 54,
+  "build": "github-v1.2.51-android",
   "notes": [
-    "Restored show channel columns and league logos while keeping a second logo inside each event card.",
-    "Bounded live-video history, released destroyed HLS players, reduced repeated health work, and strengthened multiview pause/resume and queued health checks."
+    "Live schedule cards keep their green league-logo area while scrolling or focusing controls; upcoming cards keep blue."
   ],
-  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.50/Live-Sports-1.2.50.apk",
-  "sha256": "77acb765e4c249fde48848b0dffed9a4a29642d084b745c1d9242f794c45a589",
+  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.51/Live-Sports-1.2.51.apk",
+  "sha256": "58a0b74a46bd25b01b7b7a79914ca280d241994f87cb643d70f875a9cb638e29",
   "bytes": 4504493
 }
