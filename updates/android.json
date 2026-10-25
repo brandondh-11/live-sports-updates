@@ -1,11 +1,12 @@
 {
-  "versionName": "1.2.42",
-  "versionCode": 45,
-  "build": "github-v1.2.42-android",
+  "versionName": "1.2.43",
+  "versionCode": 46,
+  "build": "github-v1.2.43-android",
   "notes": [
-    "Championship and playoff titles are centered along the bottom of schedule cards on phone, tablet and Android TV."
+    "Baseball count, outs and batting details have clear space above championship labels.",
+    "Possession uses a blue glowing dot beside the owning team’s side of the score on phone, tablet and TV."
   ],
-  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.42/Live-Sports-1.2.42.apk",
-  "sha256": "59e93fd9abec804ce40db10b86b7b0dcbb545aca1ccce3b6b953ed213207fed2",
-  "bytes": 4488109
+  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.43/Live-Sports-1.2.43.apk",
+  "sha256": "3159852ae01e059a357d221ac8949e7853faec3c3fc660c7da98d99f3613811c",
+  "bytes": 4492205
 }
