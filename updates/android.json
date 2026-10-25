@@ -1,11 +1,12 @@
 {
-  "versionName": "1.2.48",
-  "versionCode": 51,
-  "build": "github-v1.2.48-android",
+  "versionName": "1.2.49",
+  "versionCode": 52,
+  "build": "github-v1.2.49-android",
   "notes": [
-    "Full-screen games opened from multiview preserve the video aspect ratio on phone, unfolded phone, tablet and TV. Embedded player transforms are reset on resize; returning to the grid restores tile sizing."
+    "Non-team events show their league or sport logo inside the left of each schedule card, including NFL RedZone.",
+    "Upcoming TV start times remain clear of the focus highlight while scrolling."
   ],
-  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.48/Live-Sports-1.2.48.apk",
-  "sha256": "53972cc6ab3bf535fba65fadec3c5b04b8f6d17fabbb074fce4f24f974b681d3",
-  "bytes": 4500397
+  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.49/Live-Sports-1.2.49.apk",
+  "sha256": "01553d9cd465c517056b80e0a21b1995eee64e137f13ffd6b5a349d4d05e3f7f",
+  "bytes": 4504493
 }
