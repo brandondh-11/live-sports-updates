@@ -1,11 +1,11 @@
 {
-  "versionName": "1.2.47",
-  "versionCode": 50,
-  "build": "github-v1.2.47-android",
+  "versionName": "1.2.48",
+  "versionCode": 51,
+  "build": "github-v1.2.48-android",
   "notes": [
-    "Wrestling, boxing, MMA and NFL RedZone cards use centered start times above larger, centered event titles. Long titles wrap without clipping on phone, tablet and TV."
+    "Full-screen games opened from multiview preserve the video aspect ratio on phone, unfolded phone, tablet and TV. Embedded player transforms are reset on resize; returning to the grid restores tile sizing."
   ],
-  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.47/Live-Sports-1.2.47.apk",
-  "sha256": "6751c04b4ba7860161649b83388d9a1c36a2b77224cc706bff24f26b4df1f12b",
+  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.48/Live-Sports-1.2.48.apk",
+  "sha256": "53972cc6ab3bf535fba65fadec3c5b04b8f6d17fabbb074fce4f24f974b681d3",
   "bytes": 4500397
 }
