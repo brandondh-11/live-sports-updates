@@ -1,14 +1,11 @@
 {
-  "versionName": "1.2.46",
-  "versionCode": 49,
-  "build": "github-v1.2.46-android",
+  "versionName": "1.2.47",
+  "versionCode": 50,
+  "build": "github-v1.2.47-android",
   "notes": [
-    "Upcoming game start times are centered above VS.",
-    "Playoff and championship labels include reported series leaders, ties and winners.",
-    "Raw on October 26 starts at 7 PM Central; unknown TVmaze air times no longer become morning broadcasts.",
-    "NFL RedZone appears with regular-season Sunday afternoon NFL games and supports single-player and Multi View."
+    "Wrestling, boxing, MMA and NFL RedZone cards use centered start times above larger, centered event titles. Long titles wrap without clipping on phone, tablet and TV."
   ],
-  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.46/Live-Sports-1.2.46.apk",
-  "sha256": "0b55c6274abb61f41728ee39cccb9def64cb06479592e59bd20cb32aae0b7669",
+  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.47/Live-Sports-1.2.47.apk",
+  "sha256": "6751c04b4ba7860161649b83388d9a1c36a2b77224cc706bff24f26b4df1f12b",
   "bytes": 4500397
 }
