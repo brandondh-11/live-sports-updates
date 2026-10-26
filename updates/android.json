@@ -1,11 +1,12 @@
 {
-  "versionName": "1.2.52",
-  "versionCode": 55,
-  "build": "github-v1.2.52-android",
+  "versionName": "1.2.53",
+  "versionCode": 56,
+  "build": "codex-local-v1.2.53-android",
   "notes": [
-    "Failed playback gets one fresh media resolution after its posted alternatives fail, without restarting other games. Playback reports include safe player error codes and HTTP status when available."
+    "Replace one multiview game from the loaded schedule using day and sport filters, without restarting the other tiles.",
+    "Lookup runs in the player; cancellation or unavailable links keep the current game."
   ],
-  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.52/Live-Sports-1.2.52.apk",
-  "sha256": "eea45ab4cb0a700dc61b9ce9701ae7e34c5b061fa646f81738bef06cb09886f6",
-  "bytes": 4504493
+  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.53/Live-Sports-1.2.53.apk",
+  "sha256": "7d8be507950e0c0829de3944d0343f8ffc572789ce9913dcb31a27d64bb2cf3d",
+  "bytes": 4516781
 }
