@@ -1,13 +1,13 @@
 {
-  "versionName": "1.2.70",
-  "versionCode": 73,
-  "build": "codex-local-v1.2.70-android",
+  "versionName": "1.2.71",
+  "versionCode": 74,
+  "build": "codex-local-v1.2.71-android",
   "notes": [
-    "Smoother NFL Network and TNA startup with the app cover kept until full-screen presentation is ready.",
-    "Removed the stretchable starting poster; touch or remote Enter can request Play through the cover.",
-    "Fixed background autoplay races, reused-source startup state and page-exit polling. Two-second reminders retained."
+    "NFL Network is green and first from the initial schedule draw, and opens without a catalog wait.",
+    "NFL Network and TNA enter the in-app player without the resolver-worker queue.",
+    "Embedded playback transitions are reported immediately; clean full-screen startup and two-second holds retained."
   ],
-  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.70/Live-Sports-1.2.70.apk",
-  "sha256": "61f64385d7483e83615fc387ce8e8c35ee4202755b170fb435cf71e5ec7c1d3f",
+  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.71/Live-Sports-1.2.71.apk",
+  "sha256": "3255d2d22a4de6234493cf3768f351c6e03af1d2dd91acaf925fb960779925b4",
   "bytes": 4586608
 }
