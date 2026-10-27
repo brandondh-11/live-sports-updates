@@ -1,14 +1,12 @@
 {
-  "versionName": "1.2.59",
-  "versionCode": 62,
-  "build": "codex-local-v1.2.59-android",
+  "versionName": "1.2.60",
+  "versionCode": 63,
+  "build": "codex-local-v1.2.60-android",
   "notes": [
-    "Hold Enter/OK or a video for four seconds to open multiview controls.",
-    "Hold a scheduled game for four seconds to set a one-game or team reminder.",
-    "Choose 1-9 hours or days, manage reminders in Settings, and see starred games.",
-    "Android device notifications and iPhone web Calendar export; no ChatGPT reminders."
+    "Two-second holds open player controls and schedule reminders on Android and iPhone web.",
+    "Cancel web holds on scrolling, extra fingers and release outside the tile; prevent release clicks and stale timers."
   ],
-  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.59/Live-Sports-1.2.59.apk",
-  "sha256": "5bdd97b3e1c5c18f6bd79ee7fab0337a34756faf53d81328108bbe19ae401d78",
+  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.60/Live-Sports-1.2.60.apk",
+  "sha256": "8b0166562a09ad865905bc88fab1c4bdd9c1e9533d05debe4925d352d93b505e",
   "bytes": 4529200
 }
