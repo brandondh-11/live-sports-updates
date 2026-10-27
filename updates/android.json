@@ -1,13 +1,13 @@
 {
-  "versionName": "1.2.69",
-  "versionCode": 72,
-  "build": "codex-local-v1.2.69-android",
+  "versionName": "1.2.70",
+  "versionCode": 73,
+  "build": "codex-local-v1.2.70-android",
   "notes": [
-    "Improved first-start autoplay and made loaded PPV players available sooner for touch or remote Enter.",
-    "Prevented premature 20-second PPV reloads while preserving bounded startup recovery.",
-    "Fixed two-second reminder holds across card refreshes, missed touch releases and delayed timers. Full-screen fix retained."
+    "Smoother NFL Network and TNA startup with the app cover kept until full-screen presentation is ready.",
+    "Removed the stretchable starting poster; touch or remote Enter can request Play through the cover.",
+    "Fixed background autoplay races, reused-source startup state and page-exit polling. Two-second reminders retained."
   ],
-  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.69/Live-Sports-1.2.69.apk",
-  "sha256": "011a6bbef12b373d2d9e01b9315c26d36da1e33a482519abe08b4b6dcd0fc1ca",
+  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.70/Live-Sports-1.2.70.apk",
+  "sha256": "61f64385d7483e83615fc387ce8e8c35ee4202755b170fb435cf71e5ec7c1d3f",
   "bytes": 4586608
 }
