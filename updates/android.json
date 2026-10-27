@@ -1,13 +1,13 @@
 {
-  "versionName": "1.2.62",
-  "versionCode": 65,
-  "build": "codex-local-v1.2.62-android",
+  "versionName": "1.2.63",
+  "versionCode": 66,
+  "build": "codex-local-v1.2.63-android",
   "notes": [
-    "TNA Impact appears only on its posted broadcast day and time, with the official TNA logo.",
-    "Removed stale daily TNA cards after upgrading.",
-    "PPV provider refusals show a clear error and a remote-friendly Open channel on PPV action; live PPV playback remains unverified."
+    "Removed NFL Network, Golf and TNA, including PPV sources and backups.",
+    "Added the ESPN 24/7 channel from PlayoffsStream.",
+    "Live channel cards appear first and stay green."
   ],
-  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.62/Live-Sports-1.2.62.apk",
-  "sha256": "3454ae2c9e1328d3a01ea26536e924b7341141563bdde466abb2b7916d65e6e8",
-  "bytes": 4594870
+  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.63/Live-Sports-1.2.63.apk",
+  "sha256": "463765367392941746c05d54c8cf2174e9fd4fabc969ccb704290548961b7fee",
+  "bytes": 4537458
 }
