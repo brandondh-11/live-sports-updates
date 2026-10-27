@@ -1,12 +1,13 @@
 {
-  "versionName": "1.2.60",
-  "versionCode": 63,
-  "build": "codex-local-v1.2.60-android",
+  "versionName": "1.2.61",
+  "versionCode": 64,
+  "build": "codex-local-v1.2.61-android",
   "notes": [
-    "Two-second holds open player controls and schedule reminders on Android and iPhone web.",
-    "Cancel web holds on scrolling, extra fingers and release outside the tile; prevent release clicks and stale timers."
+    "Added TNA Wrestling, Sky Sports Golf and NFL Network channels from ppv.st.",
+    "Crackstreams stays primary; matching PPV backups are available in single playback, multiview and replacements.",
+    "Fresh channel listings, exact event matching and per-player Next source controls."
   ],
-  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.60/Live-Sports-1.2.60.apk",
-  "sha256": "8b0166562a09ad865905bc88fab1c4bdd9c1e9533d05debe4925d352d93b505e",
-  "bytes": 4529200
+  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.61/Live-Sports-1.2.61.apk",
+  "sha256": "ab7ccfd82f074d778ed301e9a62c55e085685133cada9b7bd6addbf13431c5c0",
+  "bytes": 4545718
 }
