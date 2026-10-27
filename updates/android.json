@@ -1,13 +1,12 @@
 {
-  "versionName": "1.2.63",
-  "versionCode": 66,
-  "build": "codex-local-v1.2.63-android",
+  "versionName": "1.2.64",
+  "versionCode": 67,
+  "build": "codex-local-v1.2.64-android",
   "notes": [
-    "Removed NFL Network, Golf and TNA, including PPV sources and backups.",
-    "Added the ESPN 24/7 channel from PlayoffsStream.",
-    "Live channel cards appear first and stay green."
+    "Removed the ESPN channel and PlayoffsStream as a source.",
+    "Cleared retired channel cards and saved source links on upgrade."
   ],
-  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.63/Live-Sports-1.2.63.apk",
-  "sha256": "463765367392941746c05d54c8cf2174e9fd4fabc969ccb704290548961b7fee",
-  "bytes": 4537458
+  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.64/Live-Sports-1.2.64.apk",
+  "sha256": "291d609e7ad9408670fc372ed1e4cecf5fa19b17f7bacd74c8acbe5d1f153afb",
+  "bytes": 4529116
 }
