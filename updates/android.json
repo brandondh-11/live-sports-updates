@@ -1,13 +1,13 @@
 {
-  "versionName": "1.2.67",
-  "versionCode": 70,
-  "build": "codex-local-v1.2.67-android",
+  "versionName": "1.2.68",
+  "versionCode": 71,
+  "build": "codex-local-v1.2.68-android",
   "notes": [
-    "NFL Network and TNA channel links now open inside the app player.",
-    "Channel video frames automatically fill the player, including small or late-loading frames.",
+    "Fixed PPV blur containers keeping full-screen video below the website header.",
+    "Video now covers the provider header and banner while preserving its proportions.",
     "NFL Network stays green and first. Android only; iPhone web is unchanged."
   ],
-  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.67/Live-Sports-1.2.67.apk",
-  "sha256": "046ddc567df80acba5f1bf9ce0199ded4b8d30167e3c42fa2a7c2c07814013fd",
+  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.68/Live-Sports-1.2.68.apk",
+  "sha256": "569d7646ab22323c354030eb3c8981f5775e1b2313060427dc7bf33bbedbb874",
   "bytes": 4582512
 }
