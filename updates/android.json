@@ -1,12 +1,12 @@
 {
-  "versionName": "1.2.53",
-  "versionCode": 56,
-  "build": "codex-local-v1.2.53-android",
+  "versionName": "1.2.54",
+  "versionCode": 57,
+  "build": "codex-local-v1.2.54-android",
   "notes": [
-    "Replace one multiview game from the loaded schedule using day and sport filters, without restarting the other tiles.",
-    "Lookup runs in the player; cancellation or unavailable links keep the current game."
+    "Open upcoming games before kickoff to try posted pregame streams.",
+    "Same pregame behavior on Android and the iPhone web app."
   ],
-  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.53/Live-Sports-1.2.53.apk",
-  "sha256": "7d8be507950e0c0829de3944d0343f8ffc572789ce9913dcb31a27d64bb2cf3d",
+  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.54/Live-Sports-1.2.54.apk",
+  "sha256": "5970aee961645bf208f75783dc9d282c4c787fb06d2002d48f3086bbad9d4a80",
   "bytes": 4516781
 }
