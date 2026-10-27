@@ -1,12 +1,13 @@
 {
-  "versionName": "1.2.64",
-  "versionCode": 67,
-  "build": "codex-local-v1.2.64-android",
+  "versionName": "1.2.66",
+  "versionCode": 69,
+  "build": "codex-local-v1.2.66-android",
   "notes": [
-    "Removed the ESPN channel and PlayoffsStream as a source.",
-    "Cleared retired channel cards and saved source links on upgrade."
+    "Fixed a retry race that marked NFL Network exhausted before its fresh reload.",
+    "NFL Network is green, 24/7 and first; TNA uses its posted date.",
+    "Android-only PPV trial; device playback remains unverified. iPhone web is unchanged."
   ],
-  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.64/Live-Sports-1.2.64.apk",
-  "sha256": "291d609e7ad9408670fc372ed1e4cecf5fa19b17f7bacd74c8acbe5d1f153afb",
-  "bytes": 4529116
+  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.66/Live-Sports-1.2.66.apk",
+  "sha256": "a2053878114faffee99ff96f804e8728906a26d34b0c1b9eff9efa1d5e319881",
+  "bytes": 4582512
 }
