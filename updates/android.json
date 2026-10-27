@@ -1,14 +1,12 @@
 {
-  "versionName": "1.2.57",
-  "versionCode": 60,
-  "build": "codex-local-v1.2.57-android",
+  "versionName": "1.2.58",
+  "versionCode": 61,
+  "build": "codex-local-v1.2.58-android",
   "notes": [
-    "Update checks use a priority queue and run before schedule loading.",
-    "Check on foreground return and every five minutes while open.",
-    "Open posted Monday Night Raw links without requiring WWE in the title.",
-    "Ignore schedule-only entries with no stream URL and keep exact show/date matching."
+    "Ask to update again on the next app visit when an update is still pending.",
+    "Later stays quiet during the current visit; visible prompts and active video are not interrupted."
   ],
-  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.57/Live-Sports-1.2.57.apk",
-  "sha256": "8e6987546d970757d0f2d47b8c9e944739cf6dd16066582e345a7d8b7b1b957c",
+  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.58/Live-Sports-1.2.58.apk",
+  "sha256": "c3c1425f5885d96f0507d6f562dfedc75de5fea4e1c5cb2649e627737e8059a3",
   "bytes": 4516781
 }
