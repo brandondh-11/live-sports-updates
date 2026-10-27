@@ -1,14 +1,14 @@
 {
-  "versionName": "1.2.56",
-  "versionCode": 59,
-  "build": "codex-local-v1.2.56-android",
+  "versionName": "1.2.57",
+  "versionCode": 60,
+  "build": "codex-local-v1.2.57-android",
   "notes": [
-    "Prevent cached WWE RAW from flashing above the startup lineup.",
-    "Cards turn green at scheduled start without waiting for a score-feed refresh.",
-    "Dated wrestling shows turn green even when no runtime is reported.",
-    "Android and the iPhone web app share these fixes."
+    "Update checks use a priority queue and run before schedule loading.",
+    "Check on foreground return and every five minutes while open.",
+    "Open posted Monday Night Raw links without requiring WWE in the title.",
+    "Ignore schedule-only entries with no stream URL and keep exact show/date matching."
   ],
-  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.56/Live-Sports-1.2.56.apk",
-  "sha256": "e13610a998dba36b1e9ef6eb70e895f6903be1802ab862417ae5b00a65644839",
+  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.57/Live-Sports-1.2.57.apk",
+  "sha256": "8e6987546d970757d0f2d47b8c9e944739cf6dd16066582e345a7d8b7b1b957c",
   "bytes": 4516781
 }
