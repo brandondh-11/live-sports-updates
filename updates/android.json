@@ -1,13 +1,13 @@
 {
-  "versionName": "1.2.66",
-  "versionCode": 69,
-  "build": "codex-local-v1.2.66-android",
+  "versionName": "1.2.67",
+  "versionCode": 70,
+  "build": "codex-local-v1.2.67-android",
   "notes": [
-    "Fixed a retry race that marked NFL Network exhausted before its fresh reload.",
-    "NFL Network is green, 24/7 and first; TNA uses its posted date.",
-    "Android-only PPV trial; device playback remains unverified. iPhone web is unchanged."
+    "NFL Network and TNA channel links now open inside the app player.",
+    "Channel video frames automatically fill the player, including small or late-loading frames.",
+    "NFL Network stays green and first. Android only; iPhone web is unchanged."
   ],
-  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.66/Live-Sports-1.2.66.apk",
-  "sha256": "a2053878114faffee99ff96f804e8728906a26d34b0c1b9eff9efa1d5e319881",
+  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.67/Live-Sports-1.2.67.apk",
+  "sha256": "046ddc567df80acba5f1bf9ce0199ded4b8d30167e3c42fa2a7c2c07814013fd",
   "bytes": 4582512
 }
