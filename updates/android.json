@@ -1,13 +1,13 @@
 {
-  "versionName": "1.2.68",
-  "versionCode": 71,
-  "build": "codex-local-v1.2.68-android",
+  "versionName": "1.2.69",
+  "versionCode": 72,
+  "build": "codex-local-v1.2.69-android",
   "notes": [
-    "Fixed PPV blur containers keeping full-screen video below the website header.",
-    "Video now covers the provider header and banner while preserving its proportions.",
-    "NFL Network stays green and first. Android only; iPhone web is unchanged."
+    "Improved first-start autoplay and made loaded PPV players available sooner for touch or remote Enter.",
+    "Prevented premature 20-second PPV reloads while preserving bounded startup recovery.",
+    "Fixed two-second reminder holds across card refreshes, missed touch releases and delayed timers. Full-screen fix retained."
   ],
-  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.68/Live-Sports-1.2.68.apk",
-  "sha256": "569d7646ab22323c354030eb3c8981f5775e1b2313060427dc7bf33bbedbb874",
-  "bytes": 4582512
+  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.69/Live-Sports-1.2.69.apk",
+  "sha256": "011a6bbef12b373d2d9e01b9315c26d36da1e33a482519abe08b4b6dcd0fc1ca",
+  "bytes": 4586608
 }
