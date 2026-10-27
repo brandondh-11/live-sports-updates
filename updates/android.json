@@ -1,13 +1,13 @@
 {
-  "versionName": "1.2.61",
-  "versionCode": 64,
-  "build": "codex-local-v1.2.61-android",
+  "versionName": "1.2.62",
+  "versionCode": 65,
+  "build": "codex-local-v1.2.62-android",
   "notes": [
-    "Added TNA Wrestling, Sky Sports Golf and NFL Network channels from ppv.st.",
-    "Crackstreams stays primary; matching PPV backups are available in single playback, multiview and replacements.",
-    "Fresh channel listings, exact event matching and per-player Next source controls."
+    "TNA Impact appears only on its posted broadcast day and time, with the official TNA logo.",
+    "Removed stale daily TNA cards after upgrading.",
+    "PPV provider refusals show a clear error and a remote-friendly Open channel on PPV action; live PPV playback remains unverified."
   ],
-  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.61/Live-Sports-1.2.61.apk",
-  "sha256": "ab7ccfd82f074d778ed301e9a62c55e085685133cada9b7bd6addbf13431c5c0",
-  "bytes": 4545718
+  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.62/Live-Sports-1.2.62.apk",
+  "sha256": "3454ae2c9e1328d3a01ea26536e924b7341141563bdde466abb2b7916d65e6e8",
+  "bytes": 4594870
 }
