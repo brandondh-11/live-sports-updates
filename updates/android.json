@@ -1,13 +1,13 @@
 {
-  "versionName": "1.2.80",
-  "versionCode": 83,
-  "build": "codex-local-v1.2.80-android",
+  "versionName": "1.2.81",
+  "versionCode": 84,
+  "build": "codex-local-v1.2.81-android",
   "notes": [
-    "Detects explicit ESPN/ESPN2 provider errors and stops automatic retries after a confirmed rejection.",
-    "Offers a manual Open browser action and adds player-loader diagnostics.",
-    "Preserves working NFL Network playback; in-app ESPN success remains unverified."
+    "Removed ESPN and ESPN2 live channels and their PlayoffsStream source.",
+    "Clears saved entries for both removed channels.",
+    "Restored the pre-ESPN player while preserving fast NFL Network, TNA and NXT playback."
   ],
-  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.80/Live-Sports-1.2.80.apk",
-  "sha256": "89a51f07f9e3d9e2840487f98d70784289d9d661b403aa1a49b37badb94433be",
-  "bytes": 4672926
+  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.81/Live-Sports-1.2.81.apk",
+  "sha256": "4f61028927a4f1519b36bee4c9acfe4193536a3625c13e7a993e9962e2ccef02",
+  "bytes": 4656240
 }
