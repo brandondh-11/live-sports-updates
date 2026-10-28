@@ -1,13 +1,13 @@
 {
-  "versionName": "1.2.71",
-  "versionCode": 74,
-  "build": "codex-local-v1.2.71-android",
+  "versionName": "1.2.72",
+  "versionCode": 75,
+  "build": "codex-local-v1.2.72-android",
   "notes": [
-    "NFL Network is green and first from the initial schedule draw, and opens without a catalog wait.",
-    "NFL Network and TNA enter the in-app player without the resolver-worker queue.",
-    "Embedded playback transitions are reported immediately; clean full-screen startup and two-second holds retained."
+    "Recovered player readiness after hidden-frame layout changes to avoid the loading cover getting stuck.",
+    "Added dated NXT streams from PPV with the official WWE NXT logo.",
+    "Bounded multiview lookups and enabled partial play while one link waits; selected bar preserves scroll and focus."
   ],
-  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.71/Live-Sports-1.2.71.apk",
-  "sha256": "3255d2d22a4de6234493cf3768f351c6e03af1d2dd91acaf925fb960779925b4",
-  "bytes": 4586608
+  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.72/Live-Sports-1.2.72.apk",
+  "sha256": "5015fb0ee10782f656099c1eb53d9df319600e7e0cb832fce0d048084ca402cf",
+  "bytes": 4652144
 }
