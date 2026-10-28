@@ -1,13 +1,12 @@
 {
-  "versionName": "1.2.77",
-  "versionCode": 80,
-  "build": "codex-local-v1.2.77-android",
+  "versionName": "1.2.78",
+  "versionCode": 81,
+  "build": "codex-local-v1.2.78-android",
   "notes": [
-    "NFL Network, TNA and NXT request the provider-supported Clappr player with direct delivery.",
-    "Corrected embedded idle-video status reporting.",
-    "Added request-stage diagnostics for channel startup; physical-device speedup remains unmeasured."
+    "Android checks playback immediately when fullscreen video readiness is reported.",
+    "Preserves polling fallback, health/presentation validation and current channel delivery settings."
   ],
-  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.77/Live-Sports-1.2.77.apk",
-  "sha256": "8b68b0e33b06ba8d10b8b9eecddbbc5ca64d77d1adc2833c90a07e1b4b6e0dbc",
+  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.78/Live-Sports-1.2.78.apk",
+  "sha256": "ed9ebfb5af8d9a369786d3ddf7ec055ab6b30c4268eabcdf63e52937cfd06d06",
   "bytes": 4656240
 }
