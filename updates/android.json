@@ -1,13 +1,14 @@
 {
-  "versionName": "1.2.72",
-  "versionCode": 75,
-  "build": "codex-local-v1.2.72-android",
+  "versionName": "1.2.73",
+  "versionCode": 76,
+  "build": "codex-local-v1.2.73-android",
   "notes": [
-    "Recovered player readiness after hidden-frame layout changes to avoid the loading cover getting stuck.",
-    "Added dated NXT streams from PPV with the official WWE NXT logo.",
-    "Bounded multiview lookups and enabled partial play while one link waits; selected bar preserves scroll and focus."
+    "Multiview retries retain working and manually entered links.",
+    "Replacement videos keep full-screen sizing and original aspect ratio.",
+    "Returning from background clears interrupted reminder holds.",
+    "Valid PPV channel entries survive invalid catalog duplicates."
   ],
-  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.72/Live-Sports-1.2.72.apk",
-  "sha256": "5015fb0ee10782f656099c1eb53d9df319600e7e0cb832fce0d048084ca402cf",
+  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.73/Live-Sports-1.2.73.apk",
+  "sha256": "3d75511ad542b8016adcb898a422af6b65fef86cd61be1e9ccfbb3f5d7a1c3ab",
   "bytes": 4652144
 }
