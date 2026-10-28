@@ -1,13 +1,13 @@
 {
-  "versionName": "1.2.79",
-  "versionCode": 82,
-  "build": "codex-local-v1.2.79-android",
+  "versionName": "1.2.80",
+  "versionCode": 83,
+  "build": "codex-local-v1.2.80-android",
   "notes": [
-    "Added ESPN and ESPN2 as green 24/7 live channels at the top of the schedule.",
-    "Uses the selected PlayoffsStream channel pages and original ESPN/ESPN2 wordmarks.",
-    "Preserves the working channel delivery and immediate playback readiness settings."
+    "Detects explicit ESPN/ESPN2 provider errors and stops automatic retries after a confirmed rejection.",
+    "Offers a manual Open browser action and adds player-loader diagnostics.",
+    "Preserves working NFL Network playback; in-app ESPN success remains unverified."
   ],
-  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.79/Live-Sports-1.2.79.apk",
-  "sha256": "1398a93089d97d80d40bd6c16c001177c451ca220927a6ac894f5d58fe9567f2",
+  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.80/Live-Sports-1.2.80.apk",
+  "sha256": "89a51f07f9e3d9e2840487f98d70784289d9d661b403aa1a49b37badb94433be",
   "bytes": 4672926
 }
