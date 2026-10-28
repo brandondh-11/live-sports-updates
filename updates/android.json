@@ -1,13 +1,13 @@
 {
-  "versionName": "1.2.81",
-  "versionCode": 84,
-  "build": "codex-local-v1.2.81-android",
+  "versionName": "1.2.82",
+  "versionCode": 85,
+  "build": "codex-local-v1.2.82-android",
   "notes": [
-    "Removed ESPN and ESPN2 live channels and their PlayoffsStream source.",
-    "Clears saved entries for both removed channels.",
-    "Restored the pre-ESPN player while preserving fast NFL Network, TNA and NXT playback."
+    "Fixed the empty bar left behind after a game reminder closes.",
+    "Reminder overlays no longer inherit navigation-bar styling.",
+    "Stacked reminders and later alerts keep working."
   ],
-  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.81/Live-Sports-1.2.81.apk",
-  "sha256": "4f61028927a4f1519b36bee4c9acfe4193536a3625c13e7a993e9962e2ccef02",
+  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.82/Live-Sports-1.2.82.apk",
+  "sha256": "6b8f9cf72a54630ee6a761f1d1f5661f76bcc3c3483176e28aecb4b570ed2956",
   "bytes": 4656240
 }
