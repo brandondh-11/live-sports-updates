@@ -1,12 +1,13 @@
 {
-  "versionName": "1.2.74",
-  "versionCode": 77,
-  "build": "codex-local-v1.2.74-android",
+  "versionName": "1.2.75",
+  "versionCode": 78,
+  "build": "codex-local-v1.2.75-android",
   "notes": [
-    "Completed shows remain on their original schedule day when a provider removes the finished stream.",
-    "Restored the confirmed October 27 NXT listing as completed history."
+    "NFL Network starts from its posted player directly, skipping the outer PPV website startup.",
+    "The same direct-player path covers TNA and NXT, with one original-page fallback.",
+    "Playback reports include time to first playback."
   ],
-  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.74/Live-Sports-1.2.74.apk",
-  "sha256": "0da2e05e5062774f9ea8aaf80cd873a86ca405c22b9416e2fbd9f90fbdb186dc",
+  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.75/Live-Sports-1.2.75.apk",
+  "sha256": "f3d7f9f0c5e1a096176f682288df266b32adeaf043a8a846fdde0e4dc5ea75d5",
   "bytes": 4652144
 }
