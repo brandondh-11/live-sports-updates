@@ -1,14 +1,13 @@
 {
-  "versionName": "1.2.76",
-  "versionCode": 79,
-  "build": "codex-local-v1.2.76-android",
+  "versionName": "1.2.77",
+  "versionCode": 80,
+  "build": "codex-local-v1.2.77-android",
   "notes": [
-    "Channel players preserve iframe context while skipping the full provider website.",
-    "Removed the automatic 20-second channel restart.",
-    "Two-second screen and Enter holds open the menu during single-game playback and loading.",
-    "Playback reports include player-phase details."
+    "NFL Network, TNA and NXT request the provider-supported Clappr player with direct delivery.",
+    "Corrected embedded idle-video status reporting.",
+    "Added request-stage diagnostics for channel startup; physical-device speedup remains unmeasured."
   ],
-  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.76/Live-Sports-1.2.76.apk",
-  "sha256": "c440ef3b4749fa4de5d12183a71a277e96ccc23045bd2c552244ee670f8bdcb0",
-  "bytes": 4652144
+  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.77/Live-Sports-1.2.77.apk",
+  "sha256": "8b68b0e33b06ba8d10b8b9eecddbbc5ca64d77d1adc2833c90a07e1b4b6e0dbc",
+  "bytes": 4656240
 }
