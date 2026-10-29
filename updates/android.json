@@ -1,13 +1,11 @@
 {
-  "versionName": "1.2.85",
-  "versionCode": 88,
-  "build": "codex-local-v1.2.85-android",
+  "versionName": "1.2.86",
+  "versionCode": 89,
+  "build": "codex-local-v1.2.86-android",
   "notes": [
-    "Clear live badges, quieter upcoming cards and a compact Live Channels section.",
-    "Use the bell to set reminders; schedule hold gesture removed.",
-    "Clearer playback progress, stronger TV focus and consistent card spacing."
+    "Live channel cards now show the NFL logo in the outside left column and again beside NFL Network inside the green card."
   ],
-  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.85/Live-Sports-1.2.85.apk",
-  "sha256": "a9e330be26813807d45f55f6d271f8cbe0352af73a4fed373a7671b70ab6aa6e",
+  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.86/Live-Sports-1.2.86.apk",
+  "sha256": "20aa41e2afa24ab0211a47edef2bac5ea75cb104c1c6e1c6089d74b61192dff4",
   "bytes": 4660408
 }
