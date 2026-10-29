@@ -1,13 +1,13 @@
 {
-  "versionName": "1.2.83",
-  "versionCode": 86,
-  "build": "codex-local-v1.2.83-android",
+  "versionName": "1.2.84",
+  "versionCode": 87,
+  "build": "codex-local-v1.2.84-android",
   "notes": [
-    "Fixed Lakers/Clippers stream lookup when the two sources use different names for the Clippers.",
-    "Retains strict opponent, game date and start-time matching.",
-    "Preserves the fast video player and reminder-bar fix."
+    "Expanded exact team-name matching across sports using official short names and mascots.",
+    "Added scoped school/city aliases and fixed school names containing at.",
+    "Rejects ambiguous opponents while retaining game date, time and duplicate-game safeguards."
   ],
-  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.83/Live-Sports-1.2.83.apk",
-  "sha256": "8907c529f12ea2fe509d16b5aa5fe324aef1d6366ca3f9e3ba894c51237efbcd",
+  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.84/Live-Sports-1.2.84.apk",
+  "sha256": "1366c57b4faa85bcdc6120fac0a722d6c8ba0d15aeb6ff370979e1e4228e3c19",
   "bytes": 4656240
 }
