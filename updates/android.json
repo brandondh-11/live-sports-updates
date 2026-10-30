@@ -1,12 +1,13 @@
 {
-  "versionName": "1.2.87",
-  "versionCode": 90,
-  "build": "codex-local-v1.2.87-android",
+  "versionName": "1.2.88",
+  "versionCode": 91,
+  "build": "codex-local-v1.2.88-android",
   "notes": [
-    "ROH uses the provider\u2019s exact dated embed API and retains posted quality options for failover.",
-    "Center the match LIVE badge above the game score."
+    "Larger team logos in TV view and a wider TNA wordmark.",
+    "NFL Network LIVE indicator now sits at the top center.",
+    "ROH connection failures receive one bounded Android HTTPS page retry before source failover."
   ],
-  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.87/Live-Sports-1.2.87.apk",
-  "sha256": "3f97b35ce1af73c1a790b14a90dabfc68b76ad6c161ff76cff1d1e2804f572cf",
-  "bytes": 4660408
+  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.88/Live-Sports-1.2.88.apk",
+  "sha256": "39af41a9db225268df36f417aa12d5ab7bbc95e8b463d6a587b4acdf33a25ee8",
+  "bytes": 4664504
 }
