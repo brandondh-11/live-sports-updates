@@ -1,13 +1,14 @@
 {
-  "versionName": "1.2.88",
-  "versionCode": 91,
-  "build": "codex-local-v1.2.88-android",
+  "versionName": "1.2.89",
+  "versionCode": 92,
+  "build": "codex-local-v1.2.89-android",
   "notes": [
-    "Larger team logos in TV view and a wider TNA wordmark.",
-    "NFL Network LIVE indicator now sits at the top center.",
-    "ROH connection failures receive one bounded Android HTTPS page retry before source failover."
+    "Center LIVE badges for ROH, UFC, TNA and all live events.",
+    "Enlarge wrestling and combat logos while preserving their proportions.",
+    "Add the normal dated ROH source page as a fallback when the embed host fails.",
+    "Improve HTTPS failure details and stop reporting failed pages as loaded."
   ],
-  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.88/Live-Sports-1.2.88.apk",
-  "sha256": "39af41a9db225268df36f417aa12d5ab7bbc95e8b463d6a587b4acdf33a25ee8",
+  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.89/Live-Sports-1.2.89.apk",
+  "sha256": "7ed7b8e0d731796a31ad6b47ea2056047b751d92e3bc7f26c2abaacc8b05dea4",
   "bytes": 4664504
 }
