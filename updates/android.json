@@ -1,14 +1,12 @@
 {
-  "versionName": "1.2.90",
-  "versionCode": 93,
-  "build": "codex-local-v1.2.90-android",
+  "versionName": "1.2.91",
+  "versionCode": 94,
+  "build": "codex-local-v1.2.91-android",
   "notes": [
-    "Ignore stale player-page errors after switching sources.",
-    "Give ROH player discovery a consistent bounded startup window.",
-    "Fix video-health detection when multiple video elements exist.",
-    "Reject hidden player frames and report HTTP failures and exhausted sources accurately."
+    "Remove women's college basketball from Sports to Watch and the schedule.",
+    "Clear saved entries for the removed sport while keeping other sports available."
   ],
-  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.90/Live-Sports-1.2.90.apk",
-  "sha256": "279ceaca9bd2b32e2914f65f0a0671430ec94d92b002df7bbd06e3636e39f317",
+  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.91/Live-Sports-1.2.91.apk",
+  "sha256": "2b1f6979a260b13a42b83c1f30e8e148b2df5e1dff8c8cc5d9bcad79518ae35c",
   "bytes": 4664504
 }
