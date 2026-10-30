@@ -1,12 +1,12 @@
 {
-  "versionName": "1.2.91",
-  "versionCode": 94,
-  "build": "codex-local-v1.2.91-android",
+  "versionName": "1.2.92",
+  "versionCode": 95,
+  "build": "codex-local-v1.2.92-android",
   "notes": [
-    "Remove women's college basketball from Sports to Watch and the schedule.",
-    "Clear saved entries for the removed sport while keeping other sports available."
+    "Show college basketball and college softball games only when at least one team is ranked in the Top 25.",
+    "Apply the same ranked-game rule to schedules, search and multiview choices."
   ],
-  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.91/Live-Sports-1.2.91.apk",
-  "sha256": "2b1f6979a260b13a42b83c1f30e8e148b2df5e1dff8c8cc5d9bcad79518ae35c",
+  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.92/Live-Sports-1.2.92.apk",
+  "sha256": "db62c699485aedd2714bc2aab7b390dac5d123b1f6a7f38cc5fac923b7032971",
   "bytes": 4664504
 }
