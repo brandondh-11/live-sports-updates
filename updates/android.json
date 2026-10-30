@@ -1,14 +1,14 @@
 {
-  "versionName": "1.2.89",
-  "versionCode": 92,
-  "build": "codex-local-v1.2.89-android",
+  "versionName": "1.2.90",
+  "versionCode": 93,
+  "build": "codex-local-v1.2.90-android",
   "notes": [
-    "Center LIVE badges for ROH, UFC, TNA and all live events.",
-    "Enlarge wrestling and combat logos while preserving their proportions.",
-    "Add the normal dated ROH source page as a fallback when the embed host fails.",
-    "Improve HTTPS failure details and stop reporting failed pages as loaded."
+    "Ignore stale player-page errors after switching sources.",
+    "Give ROH player discovery a consistent bounded startup window.",
+    "Fix video-health detection when multiple video elements exist.",
+    "Reject hidden player frames and report HTTP failures and exhausted sources accurately."
   ],
-  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.89/Live-Sports-1.2.89.apk",
-  "sha256": "7ed7b8e0d731796a31ad6b47ea2056047b751d92e3bc7f26c2abaacc8b05dea4",
+  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.90/Live-Sports-1.2.90.apk",
+  "sha256": "279ceaca9bd2b32e2914f65f0a0671430ec94d92b002df7bbd06e3636e39f317",
   "bytes": 4664504
 }
