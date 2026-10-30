@@ -1,12 +1,13 @@
 {
-  "versionName": "1.2.92",
-  "versionCode": 95,
-  "build": "codex-local-v1.2.92-android",
+  "versionName": "1.2.93",
+  "versionCode": 96,
+  "build": "codex-local-v1.2.93-android",
   "notes": [
-    "Show college basketball and college softball games only when at least one team is ranked in the Top 25.",
-    "Apply the same ranked-game rule to schedules, search and multiview choices."
+    "Show Top 25 matchups in college football, men\u2019s basketball, baseball and softball; always include Texas Tech and Oklahoma in those sports.",
+    "Keep the centered LIVE indicator above game clocks and event times without overlap.",
+    "Move through TV settings in visible row order without skipping Report a problem."
   ],
-  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.92/Live-Sports-1.2.92.apk",
-  "sha256": "db62c699485aedd2714bc2aab7b390dac5d123b1f6a7f38cc5fac923b7032971",
+  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.93/Live-Sports-1.2.93.apk",
+  "sha256": "4c8c66001ea6e95aaf2d3b8ff1b7b839b7e7161ccbfd1c324d0dd8d28979784f",
   "bytes": 4664504
 }
