@@ -1,12 +1,12 @@
 {
-  "versionName": "1.2.97",
-  "versionCode": 100,
-  "build": "codex-local-v1.2.97-android",
+  "versionName": "1.2.98",
+  "versionCode": 101,
+  "build": "codex-local-v1.2.98-android",
   "notes": [
-    "Fix incomplete schedules caused by oversized scoreboard requests; restore afternoon and evening games including Oklahoma.",
-    "Keep Top 25 filtering with Oklahoma and Texas Tech always included."
+    "Keep championship and playoff cards gold before scrolling, while focused, and after moving away.",
+    "Retain gold for live and completed postseason games, with a green live edge."
   ],
-  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.97/Live-Sports-1.2.97.apk",
-  "sha256": "ef02ed5eb263347a0e6b1fa7d89f66a990010b32cdefd1aa3b18e9cce7e6dc56",
-  "bytes": 4664504
+  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.98/Live-Sports-1.2.98.apk",
+  "sha256": "e7e6dcf88bf9a830621d181b456484374b061f544051a8801f667b595e8225a5",
+  "bytes": 4668600
 }
