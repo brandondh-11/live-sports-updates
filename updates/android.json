@@ -1,12 +1,12 @@
 {
-  "versionName": "1.2.94",
-  "versionCode": 97,
-  "build": "codex-local-v1.2.94-android",
+  "versionName": "1.2.95",
+  "versionCode": 98,
+  "build": "codex-local-v1.2.95-android",
   "notes": [
-    "Give live channels and all shows the same banner height as regular games in each phone, tablet and TV layout.",
-    "Keep LIVE and event clocks separate; preserve TV row-size settings and readable show titles."
+    "Center show and live-channel titles in phone and tablet views, with the logo inside the card to the left.",
+    "Use balanced title gutters; keep equal banner heights and LIVE/clock separation."
   ],
-  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.94/Live-Sports-1.2.94.apk",
-  "sha256": "2aa3c0757aa7d06288a3de128ac57b881e10dffc11e8980dc4b0e51e3b564b41",
+  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.95/Live-Sports-1.2.95.apk",
+  "sha256": "941b27058140115b3353cec1257a2fd5cb4b9f78590d3dc02a8df80cce2dbb86",
   "bytes": 4664504
 }
