@@ -1,12 +1,12 @@
 {
-  "versionName": "1.2.96",
-  "versionCode": 99,
-  "build": "codex-local-v1.2.96-android",
+  "versionName": "1.2.97",
+  "versionCode": 100,
+  "build": "codex-local-v1.2.97-android",
   "notes": [
-    "Restore the outside channel logo while keeping the logo inside the banner to the left of the centered show title on phones and tablets.",
-    "Retain equal banner heights and LIVE/clock spacing."
+    "Fix incomplete schedules caused by oversized scoreboard requests; restore afternoon and evening games including Oklahoma.",
+    "Keep Top 25 filtering with Oklahoma and Texas Tech always included."
   ],
-  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.96/Live-Sports-1.2.96.apk",
-  "sha256": "62466ef9d17e362a64e04494b2926c360c304f782ec58c7f9f67c8df9c2ef5d0",
+  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.97/Live-Sports-1.2.97.apk",
+  "sha256": "ef02ed5eb263347a0e6b1fa7d89f66a990010b32cdefd1aa3b18e9cce7e6dc56",
   "bytes": 4664504
 }
