@@ -1,13 +1,15 @@
 {
-  "versionName": "1.2.100",
-  "versionCode": 103,
-  "build": "codex-local-v1.2.100-android",
+  "versionName": "1.2.101",
+  "versionCode": 104,
+  "build": "codex-local-v1.2.101-android",
   "notes": [
-    "Keep NXT specials green through a bounded four-hour scheduled window when their duration is unknown.",
-    "Prevent weekly episode metadata from ending a special early.",
-    "Start Multi View with audio on the selected box; synchronize late player frames without moving selection."
+    "See clear per-box playback status and retry, change source or replace an unavailable game.",
+    "Keep schedule rows in place during live refreshes while browsing.",
+    "Navigate six TV settings sections with predictable remote focus and a visible Report a Problem row.",
+    "Review, reorder and remove Multi View selections before starting; box 1 starts with sound.",
+    "Expand release scenarios for slow lookups, late results, refresh stability, remote focus and daylight saving time."
   ],
-  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.100/Live-Sports-1.2.100.apk",
-  "sha256": "2b11fa7063bd520cc1cc852c471fba1e5ed1ed0874596bfa7422686d660906b3",
-  "bytes": 4668600
+  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.101/Live-Sports-1.2.101.apk",
+  "sha256": "0d6cd7c9b9f66755d7d112aa554daadd5818f9dcc98096d3d865efa295c53e7c",
+  "bytes": 4672770
 }
