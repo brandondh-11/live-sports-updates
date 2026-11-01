@@ -1,15 +1,13 @@
 {
-  "versionName": "1.2.101",
-  "versionCode": 104,
-  "build": "codex-local-v1.2.101-android",
+  "versionName": "1.2.102",
+  "versionCode": 105,
+  "build": "codex-local-v1.2.102-android",
   "notes": [
-    "See clear per-box playback status and retry, change source or replace an unavailable game.",
-    "Keep schedule rows in place during live refreshes while browsing.",
-    "Navigate six TV settings sections with predictable remote focus and a visible Report a Problem row.",
-    "Review, reorder and remove Multi View selections before starting; box 1 starts with sound.",
-    "Expand release scenarios for slow lookups, late results, refresh stability, remote focus and daylight saving time."
+    "Prevent TV league labels such as MMA and NBA from stacking while scrolling.",
+    "Allow shows running past their estimated end to open and check for a matching stream.",
+    "Restore automatic Multi View startup when all selected stream links are ready."
   ],
-  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.101/Live-Sports-1.2.101.apk",
-  "sha256": "0d6cd7c9b9f66755d7d112aa554daadd5818f9dcc98096d3d865efa295c53e7c",
+  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.102/Live-Sports-1.2.102.apk",
+  "sha256": "7364662df859c516e538dfd53f902c8fbfd3e0038934dec95c89ef2b79b45ff3",
   "bytes": 4672770
 }
