@@ -1,12 +1,13 @@
 {
-  "versionName": "1.2.98",
-  "versionCode": 101,
-  "build": "codex-local-v1.2.98-android",
+  "versionName": "1.2.99",
+  "versionCode": 102,
+  "build": "codex-local-v1.2.99-android",
   "notes": [
-    "Keep championship and playoff cards gold before scrolling, while focused, and after moving away.",
-    "Retain gold for live and completed postseason games, with a green live edge."
+    "Remove repeated orphan Games & Shows headings during schedule refreshes.",
+    "Restore NXT special events from CrackStreams alongside PPV listings.",
+    "Prefer exact-date PPV listings for AEW Dynamite, Collision and pay-per-views on Android."
   ],
-  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.98/Live-Sports-1.2.98.apk",
-  "sha256": "e7e6dcf88bf9a830621d181b456484374b061f544051a8801f667b595e8225a5",
+  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.99/Live-Sports-1.2.99.apk",
+  "sha256": "274826c8416dd52ba9c5149ca6bbf0f257abe6be79ef995dfa2a437d2b429f3f",
   "bytes": 4668600
 }
