@@ -1,13 +1,13 @@
 {
-  "versionName": "1.2.99",
-  "versionCode": 102,
-  "build": "codex-local-v1.2.99-android",
+  "versionName": "1.2.100",
+  "versionCode": 103,
+  "build": "codex-local-v1.2.100-android",
   "notes": [
-    "Remove repeated orphan Games & Shows headings during schedule refreshes.",
-    "Restore NXT special events from CrackStreams alongside PPV listings.",
-    "Prefer exact-date PPV listings for AEW Dynamite, Collision and pay-per-views on Android."
+    "Keep NXT specials green through a bounded four-hour scheduled window when their duration is unknown.",
+    "Prevent weekly episode metadata from ending a special early.",
+    "Start Multi View with audio on the selected box; synchronize late player frames without moving selection."
   ],
-  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.99/Live-Sports-1.2.99.apk",
-  "sha256": "274826c8416dd52ba9c5149ca6bbf0f257abe6be79ef995dfa2a437d2b429f3f",
+  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.100/Live-Sports-1.2.100.apk",
+  "sha256": "2b11fa7063bd520cc1cc852c471fba1e5ed1ed0874596bfa7422686d660906b3",
   "bytes": 4668600
 }
