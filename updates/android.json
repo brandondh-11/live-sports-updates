@@ -1,15 +1,13 @@
 {
-  "versionName": "1.2.107",
-  "versionCode": 110,
-  "build": "codex-local-v1.2.107-android",
+  "versionName": "1.2.108",
+  "versionCode": 111,
+  "build": "codex-local-v1.2.108-android",
   "notes": [
-    "Group game and show cards into sections with a centered league/show logo.",
-    "Open Watch from card whitespace while keeping reminder and Multi View actions separate.",
-    "Restore the selected day, game and scroll position after playback.",
-    "Show clear numbered Multi View badges and keep focused TV cards fully visible.",
-    "Improve logo contrast and trim readable transparent artwork padding."
+    "Restore the schedule layout, cards, logo rails and organization from version 1.2.102.",
+    "Keep the current rounded date selector at the top.",
+    "Retain current playback, silent Multi View startup and return-position fixes."
   ],
-  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.107/Live-Sports-1.2.107.apk",
-  "sha256": "cc13de6722dba9457e4f55dfff1041aa694032933af1d33fd4b68382a6aec3e1",
-  "bytes": 4685272
+  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.108/Live-Sports-1.2.108.apk",
+  "sha256": "23f7f7d0d18727a4dbbbd284a0fa5d8cd54c424a58a31c14ad864ca6664a3cca",
+  "bytes": 4681176
 }
