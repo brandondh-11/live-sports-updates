@@ -1,15 +1,15 @@
 {
-  "versionName": "1.2.103",
-  "versionCode": 106,
-  "build": "codex-local-v1.2.103-android",
+  "versionName": "1.2.104",
+  "versionCode": 107,
+  "build": "codex-local-v1.2.104-android",
   "notes": [
-    "New schedule cards with sport icons, college ranks and score-side possession/batting indicators.",
-    "Midnight Blue is the default; choose White or Graphite & Cobalt in Display & Layout.",
-    "Use a consistent logo-left, status-center and title-right format for channels and every show.",
-    "Live cards stay green; completed winning scores turn green; postseason series remain visible.",
-    "Use the six-section settings design on phone, tablet and TV."
+    "Fix themes that were overridden by legacy background colors. Midnight Blue remains the default.",
+    "Repair tablet and phone Settings layout, section scrolling and reminder focus return.",
+    "Make TV cards compact, move right-team logos to the edge and keep focus borders fully visible.",
+    "Match clock and logo heights for games, events and shows, including NFL RedZone.",
+    "Reduce repeated event-list scans when refreshing reminder icons."
   ],
-  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.103/Live-Sports-1.2.103.apk",
-  "sha256": "1035083456fb1a26e79a24aa01e7a96ba6f4dbc5b877badc07c9ea4c8e1cfe81",
+  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.104/Live-Sports-1.2.104.apk",
+  "sha256": "6cdbe42844f4ec38764dd6325ff61e653c2de1c65269bbbe764e00f9f8883913",
   "bytes": 4681176
 }
