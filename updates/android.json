@@ -1,15 +1,15 @@
 {
-  "versionName": "1.2.104",
-  "versionCode": 107,
-  "build": "codex-local-v1.2.104-android",
+  "versionName": "1.2.105",
+  "versionCode": 108,
+  "build": "codex-local-v1.2.105-android",
   "notes": [
-    "Fix themes that were overridden by legacy background colors. Midnight Blue remains the default.",
-    "Repair tablet and phone Settings layout, section scrolling and reminder focus return.",
-    "Make TV cards compact, move right-team logos to the edge and keep focus borders fully visible.",
-    "Match clock and logo heights for games, events and shows, including NFL RedZone.",
-    "Reduce repeated event-list scans when refreshing reminder icons."
+    "Enlarge team logos, center larger show titles and refresh sport icon badges.",
+    "Use narrower Multi View buttons, a slim empty selection tray and inset focus borders.",
+    "Start Multi View without a preparation popup; reveal recovery controls only when needed.",
+    "Preserve schedule focus, scroll position and lineup order during refreshes.",
+    "Fix tablet selection scroll jumps and White-theme show-clock contrast."
   ],
-  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.104/Live-Sports-1.2.104.apk",
-  "sha256": "6cdbe42844f4ec38764dd6325ff61e653c2de1c65269bbbe764e00f9f8883913",
+  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.105/Live-Sports-1.2.105.apk",
+  "sha256": "bd5bc605dc613bb4ea33cebe7e86a5aa273e4997c37328a91e6188b4d2a752ca",
   "bytes": 4681176
 }
