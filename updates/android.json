@@ -1,13 +1,13 @@
 {
-  "versionName": "1.2.121",
-  "versionCode": 124,
-  "build": "codex-local-v1.2.121-android",
+  "versionName": "1.2.122",
+  "versionCode": 125,
+  "build": "codex-local-v1.2.122-android",
   "notes": [
-    "Recover supported channels after 15 seconds of empty buffering following actual playback.",
-    "Respect intentional pauses and background state; keep recovery bounded and isolated per game.",
-    "Fix Report a problem buttons, including Close, requiring a second tap."
+    "Add targeted automatic-seek tracing with buffer and seekable checks.",
+    "Record bounded playlist/video-request status and timing without addresses or credentials.",
+    "Diagnostic update: playback cause remains unconfirmed; first-tap Close and channel recovery retained."
   ],
-  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.121/Live-Sports-1.2.121.apk",
-  "sha256": "2f536739e74d5cea21821f9e4fa69c41a5f6d665ee328d534286d36ae069b216",
-  "bytes": 9824458
+  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.122/Live-Sports-1.2.122.apk",
+  "sha256": "27b67fb672e19064df44d5f22ec863bd50674eb8c09582410a15645a55c695f1",
+  "bytes": 9828621
 }
