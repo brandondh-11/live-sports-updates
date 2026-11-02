@@ -1,13 +1,13 @@
 {
-  "versionName": "1.2.119",
-  "versionCode": 122,
-  "build": "codex-local-v1.2.119-android",
+  "versionName": "1.2.120",
+  "versionCode": 123,
+  "build": "codex-local-v1.2.120-android",
   "notes": [
-    "Remove the two-second menu hold; use the ordinary Menu button.",
-    "Open playback controls without sending a cancel gesture to the video player.",
-    "Add timestamped app control presses and command outcomes to problem reports."
+    "Add playback diagnostics to identify unexpected pauses, buffering, stalls and video errors.",
+    "Include video readiness, buffered seconds and recent media events in Report a problem.",
+    "Diagnostic release: send a new report if NFL Network stops; playback cause remains unconfirmed."
   ],
-  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.119/Live-Sports-1.2.119.apk",
-  "sha256": "52db3985fb9285b425fe206b3c8e0ad19083f427fb88b54ac53b305e4c34c780",
-  "bytes": 9820362
+  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.120/Live-Sports-1.2.120.apk",
+  "sha256": "36cb9b1440e4d9f6769203c872ec2bb00544933c83a819872f5bd44bfb48992c",
+  "bytes": 9824458
 }
