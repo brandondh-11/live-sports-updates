@@ -1,13 +1,13 @@
 {
-  "versionName": "1.2.109",
-  "versionCode": 112,
-  "build": "codex-local-v1.2.109-android",
+  "versionName": "1.2.110",
+  "versionCode": 113,
+  "build": "codex-local-v1.2.110-android",
   "notes": [
-    "Keep Live Channels visible when scrolling back up to the first TV channel.",
-    "Reveal section and league headings together with their first card without changing focus.",
-    "Keep the restored 1.2.102 schedule style and current date selector."
+    "Remove Live Channels and Games & Shows labels from all schedule views.",
+    "Match live-channel Multi View button dimensions to regular game controls.",
+    "Keep the restored 1.2.102 cards, current date selector and TV scrolling correction."
   ],
-  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.109/Live-Sports-1.2.109.apk",
-  "sha256": "76fd7ca86edb0d483754563d341109f3ddbbc1ac69ec008c85aaa340a20c6392",
+  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.110/Live-Sports-1.2.110.apk",
+  "sha256": "ea4a5d143b52cad7719891eb5b0dcae37a44c3ab613e14f07277c61aeccee727",
   "bytes": 4681176
 }
