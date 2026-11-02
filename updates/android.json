@@ -1,13 +1,13 @@
 {
-  "versionName": "1.2.117",
-  "versionCode": 120,
-  "build": "codex-local-v1.2.117-android",
+  "versionName": "1.2.118",
+  "versionCode": 121,
+  "build": "codex-local-v1.2.118-android",
   "notes": [
-    "Avoid overlapping automatic Play requests while a stream is still starting.",
-    "Do not toggle a loading provider video to pause; ignore rejected starts belonging to retired sources.",
-    "Keep startup recovery timeouts and manual controls while preserving viewer pauses."
+    "Full-screen Pause/Play, rewind 10 seconds and fast-forward 10 seconds controls for supported players.",
+    "Keep seek actions within the stream\u2019s available range and preserve intentional pauses.",
+    "Preserve 1.2.117/code120 as the pre-controls rollback baseline."
   ],
-  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.117/Live-Sports-1.2.117.apk",
-  "sha256": "534755837a641f7ad31d88b18c0eb9232a685b6ecc3009845c409c7d7589a9cf",
-  "bytes": 9816195
+  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.118/Live-Sports-1.2.118.apk",
+  "sha256": "66fe437ac600b0ea43412a29d0cc85a2c732d8e490c6566de45d560e16da0309",
+  "bytes": 9820362
 }
