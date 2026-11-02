@@ -1,13 +1,13 @@
 {
-  "versionName": "1.2.113",
-  "versionCode": 116,
-  "build": "codex-local-v1.2.113-android",
+  "versionName": "1.2.114",
+  "versionCode": 117,
+  "build": "codex-local-v1.2.114-android",
   "notes": [
-    "Keep decoded logos and card nodes stable through schedule refreshes and scrolling.",
-    "Bound retained request data and prevent older failed requests from evicting newer cache entries.",
-    "Clean up embedded-player observers/timers and resume only app-paused single-stream video."
+    "Bundle team artwork locally so schedule logos do not wait on remote image downloads.",
+    "Prioritize the first TV screen of logo fallbacks while retaining stable image nodes and sizing.",
+    "Keep shared phone/tablet, TV and iPhone schedule behavior consistent."
   ],
-  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.113/Live-Sports-1.2.113.apk",
-  "sha256": "8d031b59adc68422d525ec0baea06de31e41c55ccb81f854c60bd66dd3abeaaf",
-  "bytes": 4681176
+  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.114/Live-Sports-1.2.114.apk",
+  "sha256": "19e671a0e66fddc25fa778dd06f2365ae976af0beee51bb7fa7ca954836e9d5f",
+  "bytes": 9230467
 }
