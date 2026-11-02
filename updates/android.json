@@ -1,13 +1,13 @@
 {
-  "versionName": "1.2.114",
-  "versionCode": 117,
-  "build": "codex-local-v1.2.114-android",
+  "versionName": "1.2.115",
+  "versionCode": 118,
+  "build": "codex-local-v1.2.115-android",
   "notes": [
-    "Bundle team artwork locally so schedule logos do not wait on remote image downloads.",
-    "Prioritize the first TV screen of logo fallbacks while retaining stable image nodes and sizing.",
-    "Keep shared phone/tablet, TV and iPhone schedule behavior consistent."
+    "Pre-trim bundled team and show artwork at build time instead of processing it on TV startup.",
+    "Render bundled logos without waiting for canvas conversion or a second image load.",
+    "Keep first-screen TV priority, fixed sizing and refresh-stable image nodes."
   ],
-  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.114/Live-Sports-1.2.114.apk",
-  "sha256": "19e671a0e66fddc25fa778dd06f2365ae976af0beee51bb7fa7ca954836e9d5f",
-  "bytes": 9230467
+  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.115/Live-Sports-1.2.115.apk",
+  "sha256": "bf29d64b9393fe39e940fdf4f39ce8f5691fa5c47473f16bf9841a53a8f07972",
+  "bytes": 9816195
 }
