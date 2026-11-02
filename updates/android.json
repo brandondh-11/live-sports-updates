@@ -1,13 +1,12 @@
 {
-  "versionName": "1.2.115",
-  "versionCode": 118,
-  "build": "codex-local-v1.2.115-android",
+  "versionName": "1.2.116",
+  "versionCode": 119,
+  "build": "codex-local-v1.2.116-android",
   "notes": [
-    "Pre-trim bundled team and show artwork at build time instead of processing it on TV startup.",
-    "Render bundled logos without waiting for canvas conversion or a second image load.",
-    "Keep first-screen TV priority, fixed sizing and refresh-stable image nodes."
+    "Keep playback problem reports synchronized with idle, buffering and unknown player states.",
+    "Preserve the recovering NFL Network startup path and its existing timeout. No startup-speed improvement is claimed."
   ],
-  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.115/Live-Sports-1.2.115.apk",
-  "sha256": "bf29d64b9393fe39e940fdf4f39ce8f5691fa5c47473f16bf9841a53a8f07972",
+  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.116/Live-Sports-1.2.116.apk",
+  "sha256": "2e0b11c6824019b22c4aba15daaaa7973408b65c1a58918cdeb16818a1367992",
   "bytes": 9816195
 }
