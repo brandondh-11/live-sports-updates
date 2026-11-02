@@ -1,13 +1,13 @@
 {
-  "versionName": "1.2.118",
-  "versionCode": 121,
-  "build": "codex-local-v1.2.118-android",
+  "versionName": "1.2.119",
+  "versionCode": 122,
+  "build": "codex-local-v1.2.119-android",
   "notes": [
-    "Full-screen Pause/Play, rewind 10 seconds and fast-forward 10 seconds controls for supported players.",
-    "Keep seek actions within the stream\u2019s available range and preserve intentional pauses.",
-    "Preserve 1.2.117/code120 as the pre-controls rollback baseline."
+    "Remove the two-second menu hold; use the ordinary Menu button.",
+    "Open playback controls without sending a cancel gesture to the video player.",
+    "Add timestamped app control presses and command outcomes to problem reports."
   ],
-  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.118/Live-Sports-1.2.118.apk",
-  "sha256": "66fe437ac600b0ea43412a29d0cc85a2c732d8e490c6566de45d560e16da0309",
+  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.119/Live-Sports-1.2.119.apk",
+  "sha256": "52db3985fb9285b425fe206b3c8e0ad19083f427fb88b54ac53b305e4c34c780",
   "bytes": 9820362
 }
