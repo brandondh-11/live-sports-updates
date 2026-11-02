@@ -1,13 +1,13 @@
 {
-  "versionName": "1.2.111",
-  "versionCode": 114,
-  "build": "codex-local-v1.2.111-android",
+  "versionName": "1.2.112",
+  "versionCode": 115,
+  "build": "codex-local-v1.2.112-android",
   "notes": [
-    "Move the Multi View bar above the schedule, directly under the dates.",
-    "Restore the NFL league banner when games follow NFL Network.",
-    "Keep tablet reminder and Multi View controls in separate bounded rows."
+    "Replace elapsed scheduled start times with Awaiting update until live game details arrive.",
+    "Keep game clocks centered and synchronized through live-state transitions.",
+    "Use consistent logo footprints for sports and shows, normalizing transparent artwork padding."
   ],
-  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.111/Live-Sports-1.2.111.apk",
-  "sha256": "83c25b5be30f781e5753ab1ec0d147f6e334b10c133fca60d3a54a9cb2c58a20",
+  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.112/Live-Sports-1.2.112.apk",
+  "sha256": "8157212d6ac29dbf4608fdad8cbccaec783468961e346f54df05d0cea01f3bd0",
   "bytes": 4681176
 }
