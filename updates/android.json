@@ -1,13 +1,13 @@
 {
-  "versionName": "1.2.112",
-  "versionCode": 115,
-  "build": "codex-local-v1.2.112-android",
+  "versionName": "1.2.113",
+  "versionCode": 116,
+  "build": "codex-local-v1.2.113-android",
   "notes": [
-    "Replace elapsed scheduled start times with Awaiting update until live game details arrive.",
-    "Keep game clocks centered and synchronized through live-state transitions.",
-    "Use consistent logo footprints for sports and shows, normalizing transparent artwork padding."
+    "Keep decoded logos and card nodes stable through schedule refreshes and scrolling.",
+    "Bound retained request data and prevent older failed requests from evicting newer cache entries.",
+    "Clean up embedded-player observers/timers and resume only app-paused single-stream video."
   ],
-  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.112/Live-Sports-1.2.112.apk",
-  "sha256": "8157212d6ac29dbf4608fdad8cbccaec783468961e346f54df05d0cea01f3bd0",
+  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.113/Live-Sports-1.2.113.apk",
+  "sha256": "8d031b59adc68422d525ec0baea06de31e41c55ccb81f854c60bd66dd3abeaaf",
   "bytes": 4681176
 }
