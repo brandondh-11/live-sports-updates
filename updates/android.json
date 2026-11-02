@@ -1,12 +1,13 @@
 {
-  "versionName": "1.2.116",
-  "versionCode": 119,
-  "build": "codex-local-v1.2.116-android",
+  "versionName": "1.2.117",
+  "versionCode": 120,
+  "build": "codex-local-v1.2.117-android",
   "notes": [
-    "Keep playback problem reports synchronized with idle, buffering and unknown player states.",
-    "Preserve the recovering NFL Network startup path and its existing timeout. No startup-speed improvement is claimed."
+    "Avoid overlapping automatic Play requests while a stream is still starting.",
+    "Do not toggle a loading provider video to pause; ignore rejected starts belonging to retired sources.",
+    "Keep startup recovery timeouts and manual controls while preserving viewer pauses."
   ],
-  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.116/Live-Sports-1.2.116.apk",
-  "sha256": "2e0b11c6824019b22c4aba15daaaa7973408b65c1a58918cdeb16818a1367992",
+  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.117/Live-Sports-1.2.117.apk",
+  "sha256": "534755837a641f7ad31d88b18c0eb9232a685b6ecc3009845c409c7d7589a9cf",
   "bytes": 9816195
 }
