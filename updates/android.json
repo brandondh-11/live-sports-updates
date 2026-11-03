@@ -1,13 +1,12 @@
 {
-  "versionName": "1.2.129",
-  "versionCode": 132,
-  "build": "codex-local-v1.2.129-android",
+  "versionName": "1.2.130",
+  "versionCode": 133,
+  "build": "codex-local-v1.2.130-android",
   "notes": [
-    "Add the Game On animated TV splash with morphing sports and searching antenna.",
-    "Load today’s schedule and stream listings behind startup animation.",
-    "Reveal the ready schedule after the intro; keep slow connections recoverable."
+    "Show each team's record directly below its name on phone and tablet schedule cards.",
+    "Display records when provided by the schedule feed."
   ],
-  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.129/Live-Sports-1.2.129.apk",
-  "sha256": "dd591b867f88ed380f1f7136a4f9f2d54a44969bdb3546e2d657a1cf2205abda",
+  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.130/Live-Sports-1.2.130.apk",
+  "sha256": "e4484bfa35b6ed622f9b8a3a19a42a666c86801abeb037fb394cc593b350238f",
   "bytes": 9845289
 }
