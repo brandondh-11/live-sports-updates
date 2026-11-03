@@ -1,13 +1,13 @@
 {
-  "versionName": "1.2.124",
-  "versionCode": 127,
-  "build": "codex-local-v1.2.124-android",
+  "versionName": "1.2.125",
+  "versionCode": 128,
+  "build": "codex-local-v1.2.125-android",
   "notes": [
-    "TV remote center toggles Pause/Play; left and right seek 10 seconds with brief matching indicators.",
-    "Restore men's college basketball stream lookup and Multi View replacement with exact matchup matching.",
-    "Retain player-frame connection failures in problem reports; existing report Close fix and bounded recovery retained."
+    "Correct false Unavailable playback feedback and flash Pause/Play centrally.",
+    "Keep -10 left and +10 right; show Live centrally when fast-forward reaches the available live edge.",
+    "Move completed games below active events during schedule refresh."
   ],
-  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.124/Live-Sports-1.2.124.apk",
-  "sha256": "cfd1c41627b3769ae48a6c83a631e0bd5b45cb497e30f5c70fa34b3adeec7688",
+  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.125/Live-Sports-1.2.125.apk",
+  "sha256": "63fe75703564660096a8daea755c560329ece317ed91a865b21c42930bbc6917",
   "bytes": 9832785
 }
