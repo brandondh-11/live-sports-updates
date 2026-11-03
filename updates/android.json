@@ -1,13 +1,12 @@
 {
-  "versionName": "1.2.131",
-  "versionCode": 134,
-  "build": "codex-local-v1.2.131-android",
+  "versionName": "1.2.132",
+  "versionCode": 135,
+  "build": "codex-local-v1.2.132-android",
   "notes": [
-    "Improve scrolling and stop obsolete schedule-matching work.",
-    "Pause player recovery deadlines while backgrounded.",
-    "Harden storage failures, Android renderer recovery and trusted data boundaries."
+    "Sort upcoming TV events by start time as schedules and stream listings arrive.",
+    "Keep live channels/live games first and completed games last."
   ],
-  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.131/Live-Sports-1.2.131.apk",
-  "sha256": "38bcb1ec3104eb1253a9e1cdcff5edce180cb10820285c2be312921fa6393fba",
+  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.132/Live-Sports-1.2.132.apk",
+  "sha256": "424a949125a69431fb51066b8e3c17d01ae57df1a21557e6d8c9efb1b5375854",
   "bytes": 9845289
 }
