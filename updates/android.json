@@ -1,12 +1,12 @@
 {
-  "versionName": "1.2.132",
-  "versionCode": 135,
-  "build": "codex-local-v1.2.132-android",
+  "versionName": "1.2.133",
+  "versionCode": 136,
+  "build": "codex-local-v1.2.133-android",
   "notes": [
-    "Sort upcoming TV events by start time as schedules and stream listings arrive.",
-    "Keep live channels/live games first and completed games last."
+    "Add ESPN as a live channel using your supplied page.",
+    "ESPN logo on the channel and show card; supports Multi View."
   ],
-  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.132/Live-Sports-1.2.132.apk",
-  "sha256": "424a949125a69431fb51066b8e3c17d01ae57df1a21557e6d8c9efb1b5375854",
-  "bytes": 9845289
+  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.133/Live-Sports-1.2.133.apk",
+  "sha256": "b19d0354e7763069fe5987b032ea5ddaf84823533c85a426e420b6967c8f5290",
+  "bytes": 9857652
 }
