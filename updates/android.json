@@ -1,14 +1,13 @@
 {
-  "versionName": "1.2.127",
-  "versionCode": 130,
-  "build": "codex-local-v1.2.127-android",
+  "versionName": "1.2.128",
+  "versionCode": 131,
+  "build": "codex-local-v1.2.128-android",
   "notes": [
-    "Keep Pause visible until Play; aggregate rapid seek feedback and native seek targets.",
-    "Restore final scores at the bottom, including games whose live links retired.",
-    "Put live events above inactive shows and coalesce TV reveal work to display frames.",
-    "Fix delayed stream-availability repaint and retain exhausted-player status."
+    "Recover multiview decode errors before abandoning a playing source.",
+    "Apply multiview quality caps before playback begins.",
+    "Retry the exact failed channel player through Android HTTPS once."
   ],
-  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.127/Live-Sports-1.2.127.apk",
-  "sha256": "c588f580e07e0a55ff1445a4232e80362e48472565be9415938a3a925e369cb2",
+  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.128/Live-Sports-1.2.128.apk",
+  "sha256": "f3755527f8acc827e003b018ffdbbe4335e767d42f0c3c9e5a86fac5aafcea9c",
   "bytes": 9836956
 }
