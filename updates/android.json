@@ -1,14 +1,14 @@
 {
-  "versionName": "1.2.126",
-  "versionCode": 129,
-  "build": "codex-local-v1.2.126-android",
+  "versionName": "1.2.127",
+  "versionCode": 130,
+  "build": "codex-local-v1.2.127-android",
   "notes": [
-    "Show Pause/Play once per command; prevent duplicate health flashes.",
-    "Restore NFL Network to the original website player configuration.",
-    "Hide schedule games without a matching posted stream; batch/cache matching outside scrolling.",
-    "Prune detached player nodes and stop suspended health polling."
+    "Keep Pause visible until Play; aggregate rapid seek feedback and native seek targets.",
+    "Restore final scores at the bottom, including games whose live links retired.",
+    "Put live events above inactive shows and coalesce TV reveal work to display frames.",
+    "Fix delayed stream-availability repaint and retain exhausted-player status."
   ],
-  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.126/Live-Sports-1.2.126.apk",
-  "sha256": "161b44ed1040fa3a00df4e50ec8d841591583c9918564cd82934e99e491f27e1",
+  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.127/Live-Sports-1.2.127.apk",
+  "sha256": "c588f580e07e0a55ff1445a4232e80362e48472565be9415938a3a925e369cb2",
   "bytes": 9836956
 }
