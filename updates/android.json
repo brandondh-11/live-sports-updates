@@ -1,12 +1,13 @@
 {
-  "versionName": "1.2.130",
-  "versionCode": 133,
-  "build": "codex-local-v1.2.130-android",
+  "versionName": "1.2.131",
+  "versionCode": 134,
+  "build": "codex-local-v1.2.131-android",
   "notes": [
-    "Show each team's record directly below its name on phone and tablet schedule cards.",
-    "Display records when provided by the schedule feed."
+    "Improve scrolling and stop obsolete schedule-matching work.",
+    "Pause player recovery deadlines while backgrounded.",
+    "Harden storage failures, Android renderer recovery and trusted data boundaries."
   ],
-  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.130/Live-Sports-1.2.130.apk",
-  "sha256": "e4484bfa35b6ed622f9b8a3a19a42a666c86801abeb037fb394cc593b350238f",
+  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.131/Live-Sports-1.2.131.apk",
+  "sha256": "38bcb1ec3104eb1253a9e1cdcff5edce180cb10820285c2be312921fa6393fba",
   "bytes": 9845289
 }
