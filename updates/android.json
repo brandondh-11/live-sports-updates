@@ -1,12 +1,12 @@
 {
-  "versionName": "1.2.136",
-  "versionCode": 139,
-  "build": "codex-local-v1.2.136-android",
+  "versionName": "1.2.137",
+  "versionCode": 140,
+  "build": "codex-local-v1.2.137-android",
   "notes": [
-    "Startup closes after 4 seconds while schedules continue loading.",
-    "ESPN provider blocks in-app playback; an explicit Open in browser action replaces repeated retries."
+    "Removed ESPN from live channels, schedule filters and saved playback links.",
+    "Startup remains four seconds while schedules load in the background."
   ],
-  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.136/Live-Sports-1.2.136.apk",
-  "sha256": "47092646473090b91f4501e460d122042ed150d92397f85086df48b1477c9461",
+  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.137/Live-Sports-1.2.137.apk",
+  "sha256": "de354c45a724fa97debdb47bc7889c8713f7f0b59b8d1d7ec758b279e8ae3a3e",
   "bytes": 9857652
 }
