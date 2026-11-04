@@ -1,12 +1,12 @@
 {
-  "versionName": "1.2.141",
-  "versionCode": 144,
-  "build": "codex-local-v1.2.141-android",
+  "versionName": "1.2.142",
+  "versionCode": 145,
+  "build": "codex-local-v1.2.142-android",
   "notes": [
-    "Removed the outer scroll indicator that could appear above the phone startup screen.",
-    "Page scrollbar styling restores when the intro finishes or is skipped."
+    "Future dates show scheduled games before game-day stream links are posted.",
+    "Today’s stream-link filtering and existing college-team rules are preserved."
   ],
-  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.141/Live-Sports-1.2.141.apk",
-  "sha256": "b4dd7f591dfe38555a6f1ba62c6221bae7531c1c08b35424aee3b5ee9bca0b1e",
+  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.142/Live-Sports-1.2.142.apk",
+  "sha256": "eb58d46ac9d3e9198be347501af996815cbfbd0ff55b32dc3b39430f263d4033",
   "bytes": 9857652
 }
