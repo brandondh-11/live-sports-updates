@@ -1,11 +1,12 @@
 {
-  "versionName": "1.2.140",
-  "versionCode": 143,
-  "build": "codex-local-v1.2.140-android",
+  "versionName": "1.2.141",
+  "versionCode": 144,
+  "build": "codex-local-v1.2.141-android",
   "notes": [
-    "TV date buttons keep the whole week stationary while moving left or right with the remote."
+    "Removed the outer scroll indicator that could appear above the phone startup screen.",
+    "Page scrollbar styling restores when the intro finishes or is skipped."
   ],
-  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.140/Live-Sports-1.2.140.apk",
-  "sha256": "888536a7d8fff891ef094dc5d8ad00344aa1b732af194f7fccdf75336d97b9c8",
+  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.141/Live-Sports-1.2.141.apk",
+  "sha256": "b4dd7f591dfe38555a6f1ba62c6221bae7531c1c08b35424aee3b5ee9bca0b1e",
   "bytes": 9857652
 }
