@@ -1,12 +1,11 @@
 {
-  "versionName": "1.2.139",
-  "versionCode": 142,
-  "build": "codex-local-v1.2.139-android",
+  "versionName": "1.2.140",
+  "versionCode": 143,
+  "build": "codex-local-v1.2.140-android",
   "notes": [
-    "Removed the schedule footer text.",
-    "About now shows only B+B=\u2665."
+    "TV date buttons keep the whole week stationary while moving left or right with the remote."
   ],
-  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.139/Live-Sports-1.2.139.apk",
-  "sha256": "d89426c59151e5896cdd6f161882093cc1f1cfabf51ef5dca6f47b4c1fefe987",
+  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.140/Live-Sports-1.2.140.apk",
+  "sha256": "888536a7d8fff891ef094dc5d8ad00344aa1b732af194f7fccdf75336d97b9c8",
   "bytes": 9857652
 }
