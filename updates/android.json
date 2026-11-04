@@ -1,12 +1,12 @@
 {
-  "versionName": "1.2.137",
-  "versionCode": 140,
-  "build": "codex-local-v1.2.137-android",
+  "versionName": "1.2.138",
+  "versionCode": 141,
+  "build": "codex-local-v1.2.138-android",
   "notes": [
-    "Removed ESPN from live channels, schedule filters and saved playback links.",
-    "Startup remains four seconds while schedules load in the background."
+    "Faster schedule startup with early cached-board and stream-link lookups.",
+    "Four-second animation waits for schedule readiness; Skip and a bounded timeout remain available."
   ],
-  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.137/Live-Sports-1.2.137.apk",
-  "sha256": "de354c45a724fa97debdb47bc7889c8713f7f0b59b8d1d7ec758b279e8ae3a3e",
+  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.138/Live-Sports-1.2.138.apk",
+  "sha256": "a81417dede778da0633902d9d6708cb80503c45c68b7271d9b2ecc957976fb08",
   "bytes": 9857652
 }
