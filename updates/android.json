@@ -1,12 +1,12 @@
 {
-  "versionName": "1.2.142",
-  "versionCode": 145,
-  "build": "codex-local-v1.2.142-android",
+  "versionName": "1.2.143",
+  "versionCode": 146,
+  "build": "codex-local-v1.2.143-android",
   "notes": [
-    "Future dates show scheduled games before game-day stream links are posted.",
-    "Today’s stream-link filtering and existing college-team rules are preserved."
+    "Block the popup script that can delay ROH player creation.",
+    "Prepare the ROH player before remaining page resources finish loading."
   ],
-  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.142/Live-Sports-1.2.142.apk",
-  "sha256": "eb58d46ac9d3e9198be347501af996815cbfbd0ff55b32dc3b39430f263d4033",
+  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.143/Live-Sports-1.2.143.apk",
+  "sha256": "f1cd28117cf22e8d7b321462678c8a019e485a9628cdf05d467eb9b28dfaedba",
   "bytes": 9857652
 }
