@@ -1,12 +1,12 @@
 {
-  "versionName": "1.2.143",
-  "versionCode": 146,
-  "build": "codex-local-v1.2.143-android",
+  "versionName": "1.2.144",
+  "versionCode": 147,
+  "build": "codex-local-v1.2.144-android",
   "notes": [
-    "Block the popup script that can delay ROH player creation.",
-    "Prepare the ROH player before remaining page resources finish loading."
+    "Try the dated ROH show page before the failing embed host.",
+    "Preserve the real ROH player-window handoff inside the app, with bounded cleanup."
   ],
-  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.143/Live-Sports-1.2.143.apk",
-  "sha256": "f1cd28117cf22e8d7b321462678c8a019e485a9628cdf05d467eb9b28dfaedba",
-  "bytes": 9857652
+  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.144/Live-Sports-1.2.144.apk",
+  "sha256": "7524c7794274bd6800dc0c695f1a9b30ec0751ab0aaed53bd25ed1c2bee9933b",
+  "bytes": 9861748
 }
