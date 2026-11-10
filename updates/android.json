@@ -1,11 +1,12 @@
 {
-  "versionName": "1.2.147",
-  "versionCode": 150,
-  "build": "codex-local-v1.2.147-android",
+  "versionName": "1.2.148",
+  "versionCode": 151,
+  "build": "codex-local-v1.2.148-android",
   "notes": [
-    "Use the confirmed November 9 WWE Raw broadcast time."
+    "Try the same server website when a Multiview tile times out.",
+    "Ignore delayed reports from replaced player pages."
   ],
-  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.147/Live-Sports-1.2.147.apk",
-  "sha256": "5d94c5b41b48277dd22e49179c0ba7483a049d270b1d27cbf59ed29c22f91e54",
+  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.148/Live-Sports-1.2.148.apk",
+  "sha256": "564503371185171fec8b27ed39a7c69fddf15375adb2f2095792e3a45ac5a2c1",
   "bytes": 9865844
 }
