@@ -1,11 +1,13 @@
 {
-  "versionName": "1.2.149",
-  "versionCode": 152,
-  "build": "codex-local-v1.2.149-android",
+  "versionName": "1.2.150",
+  "versionCode": 153,
+  "build": "codex-local-v1.2.150-android",
   "notes": [
-    "Retry the original AEW event page after the direct player fails."
+    "Redesign TV schedule scores, focus and team artwork.",
+    "Add Multiview matchup overlays and server-attempt labels.",
+    "Refresh combat cards and add a two-pane layout on wide touch screens."
   ],
-  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.149/Live-Sports-1.2.149.apk",
-  "sha256": "b401b2959c2c458c810a7f513d4ccfca6053c99f65d15a9a0daeb5e141f91076",
-  "bytes": 9865844
+  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.150/Live-Sports-1.2.150.apk",
+  "sha256": "633d7c41b1ffb9d128d397413bf878e8d63998f414c625da1a1c764ff4e50ff7",
+  "bytes": 9870016
 }
