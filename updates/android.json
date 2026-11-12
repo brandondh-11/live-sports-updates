@@ -1,12 +1,11 @@
 {
-  "versionName": "1.2.148",
-  "versionCode": 151,
-  "build": "codex-local-v1.2.148-android",
+  "versionName": "1.2.149",
+  "versionCode": 152,
+  "build": "codex-local-v1.2.149-android",
   "notes": [
-    "Try the same server website when a Multiview tile times out.",
-    "Ignore delayed reports from replaced player pages."
+    "Retry the original AEW event page after the direct player fails."
   ],
-  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.148/Live-Sports-1.2.148.apk",
-  "sha256": "564503371185171fec8b27ed39a7c69fddf15375adb2f2095792e3a45ac5a2c1",
+  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.149/Live-Sports-1.2.149.apk",
+  "sha256": "b401b2959c2c458c810a7f513d4ccfca6053c99f65d15a9a0daeb5e141f91076",
   "bytes": 9865844
 }
