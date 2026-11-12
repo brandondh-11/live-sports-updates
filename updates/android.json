@@ -1,13 +1,12 @@
 {
-  "versionName": "1.2.150",
-  "versionCode": 153,
-  "build": "codex-local-v1.2.150-android",
+  "versionName": "1.2.151",
+  "versionCode": 154,
+  "build": "codex-local-v1.2.151-android",
   "notes": [
-    "Redesign TV schedule scores, focus and team artwork.",
-    "Add Multiview matchup overlays and server-attempt labels.",
-    "Refresh combat cards and add a two-pane layout on wide touch screens."
+    "Keep the website player on a same-server retry after native startup fails.",
+    "Measure time to first playback across automatic retries."
   ],
-  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.150/Live-Sports-1.2.150.apk",
-  "sha256": "633d7c41b1ffb9d128d397413bf878e8d63998f414c625da1a1c764ff4e50ff7",
+  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.151/Live-Sports-1.2.151.apk",
+  "sha256": "0b6a63ebb9130169f777fee8ef1f14f4283d786bca8e0a3a75f51b282abc7ab9",
   "bytes": 9870016
 }
