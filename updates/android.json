@@ -1,12 +1,14 @@
 {
-  "versionName": "1.2.151",
-  "versionCode": 154,
-  "build": "codex-local-v1.2.151-android",
+  "versionName": "1.2.153",
+  "versionCode": 156,
+  "build": "codex-local-v1.2.153-android",
   "notes": [
-    "Keep the website player on a same-server retry after native startup fails.",
-    "Measure time to first playback across automatic retries."
+    "All shows, including NFL Network and TNA, use the boxing-style artwork layout and match game-card height.",
+    "Events currently on have green backgrounds.",
+    "Select a show card to launch it; the separate Watch button is removed.",
+    "TV remote navigation now reaches the + Multi View button."
   ],
-  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.151/Live-Sports-1.2.151.apk",
-  "sha256": "0b6a63ebb9130169f777fee8ef1f14f4283d786bca8e0a3a75f51b282abc7ab9",
-  "bytes": 9870016
+  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.153/Live-Sports-1.2.153.apk",
+  "sha256": "8912b8e9aaf254e9c3a304d6976718c5bcbbea489e04ba9a1bc4245f6025bca5",
+  "bytes": 9874112
 }
