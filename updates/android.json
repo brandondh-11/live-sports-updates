@@ -1,13 +1,13 @@
 {
-  "versionName": "1.2.155",
-  "versionCode": 158,
-  "build": "codex-local-v1.2.155-android",
+  "versionName": "1.2.156",
+  "versionCode": 159,
+  "build": "codex-local-v1.2.156-android",
   "notes": [
-    "Show league logos while Multiview videos start.",
-    "Make live possession clear with a BALL or BAT badge.",
-    "Re-enable recovery when a late stream starts after server retries."
+    "Full-width schedule and TV-style matchup rows on tablets and unfolded phones.",
+    "Ignore duplicate WebView finish callbacks and keep a recovered tile playing.",
+    "Reuse bundled player scripts during Multiview startup and retries."
   ],
-  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.155/Live-Sports-1.2.155.apk",
-  "sha256": "5370f2c3fa70c65f5ad77a49fcf600f555e1fac4bb0931de0ed2e505758e02bd",
+  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.156/Live-Sports-1.2.156.apk",
+  "sha256": "ec594d705156656a5e6e2bbbb967e5d7ba888931314eb72bd118e849608df02b",
   "bytes": 9874112
 }
