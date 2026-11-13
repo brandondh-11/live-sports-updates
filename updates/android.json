@@ -1,11 +1,11 @@
 {
-  "versionName": "1.2.158",
-  "versionCode": 161,
-  "build": "codex-local-v1.2.158-android",
+  "versionName": "1.2.159",
+  "versionCode": 162,
+  "build": "codex-local-v1.2.159-android",
   "notes": [
-    "Monitor the built-in web player from startup and skip a previously failed website fallback."
+    "New Game On splash screen with a larger TV, blue gradient and original sports and antenna animations."
   ],
-  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.158/Live-Sports-1.2.158.apk",
-  "sha256": "ee6527ebca7fbbcf52711b27b7f0357b5bb44503491a294f8e8325256b513d8b",
+  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.159/Live-Sports-1.2.159.apk",
+  "sha256": "178f8cb69db62838b57e7e850df56c227eb5737089b4ce44631dcd6afcb0aa75",
   "bytes": 9874112
 }
