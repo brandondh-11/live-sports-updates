@@ -1,11 +1,12 @@
 {
-  "versionName": "1.2.162",
-  "versionCode": 165,
-  "build": "codex-local-v1.2.162-android",
+  "versionName": "1.2.163",
+  "versionCode": 166,
+  "build": "codex-local-v1.2.163-android",
   "notes": [
-    "Remove the loading message from the Game On splash screen."
+    "Detect video startup as soon as playback advances.",
+    "Offer Retry and View player sooner when a stream is slow to start."
   ],
-  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.162/Live-Sports-1.2.162.apk",
-  "sha256": "91dc48c1f6ba39e8a879b779006fae9172e1e886b2f64f197122e563ad71a547",
+  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.163/Live-Sports-1.2.163.apk",
+  "sha256": "56855ba21e89097578d0010e27f1ea14227d03e413fd82f2482fac351c66ae42",
   "bytes": 9874112
 }
