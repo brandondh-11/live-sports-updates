@@ -1,11 +1,11 @@
 {
-  "versionName": "1.2.161",
-  "versionCode": 164,
-  "build": "codex-local-v1.2.161-android",
+  "versionName": "1.2.162",
+  "versionCode": 165,
+  "build": "codex-local-v1.2.162-android",
   "notes": [
-    "Show league names and logos above schedule sections on phones and tablets."
+    "Remove the loading message from the Game On splash screen."
   ],
-  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.161/Live-Sports-1.2.161.apk",
-  "sha256": "f8d51c181dbd00e16d1c3eaa7fb409f1fdba550749d4c7a4608535a1b9f872d3",
+  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.162/Live-Sports-1.2.162.apk",
+  "sha256": "91dc48c1f6ba39e8a879b779006fae9172e1e886b2f64f197122e563ad71a547",
   "bytes": 9874112
 }
