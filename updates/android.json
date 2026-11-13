@@ -1,13 +1,11 @@
 {
-  "versionName": "1.2.156",
-  "versionCode": 159,
-  "build": "codex-local-v1.2.156-android",
+  "versionName": "1.2.157",
+  "versionCode": 160,
+  "build": "codex-local-v1.2.157-android",
   "notes": [
-    "Full-width schedule and TV-style matchup rows on tablets and unfolded phones.",
-    "Ignore duplicate WebView finish callbacks and keep a recovered tile playing.",
-    "Reuse bundled player scripts during Multiview startup and retries."
+    "Try refreshed media in the built-in web player when native startup and the website player fail."
   ],
-  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.156/Live-Sports-1.2.156.apk",
-  "sha256": "ec594d705156656a5e6e2bbbb967e5d7ba888931314eb72bd118e849608df02b",
+  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.157/Live-Sports-1.2.157.apk",
+  "sha256": "b896d2877a723257ed2fe5c326c4963cffc1334c637b85958ab22a8eb9de9987",
   "bytes": 9874112
 }
