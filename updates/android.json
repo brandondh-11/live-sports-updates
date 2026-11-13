@@ -1,14 +1,13 @@
 {
-  "versionName": "1.2.153",
-  "versionCode": 156,
-  "build": "codex-local-v1.2.153-android",
+  "versionName": "1.2.154",
+  "versionCode": 157,
+  "build": "codex-local-v1.2.154-android",
   "notes": [
-    "All shows, including NFL Network and TNA, use the boxing-style artwork layout and match game-card height.",
-    "Events currently on have green backgrounds.",
-    "Select a show card to launch it; the separate Watch button is removed.",
-    "TV remote navigation now reaches the + Multi View button."
+    "Keep show artwork lighting, texture and promotion colors on green live cards.",
+    "Make schedule cards more compact: standard height reduced from 124 to 100 pixels.",
+    "Recognize empty posted event players and offer a clear message with Retry."
   ],
-  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.153/Live-Sports-1.2.153.apk",
-  "sha256": "8912b8e9aaf254e9c3a304d6976718c5bcbbea489e04ba9a1bc4245f6025bca5",
+  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.154/Live-Sports-1.2.154.apk",
+  "sha256": "13073fad31cdf5bcdfa24f282f86b389e2611f5391a261190e037c0ea795780f",
   "bytes": 9874112
 }
