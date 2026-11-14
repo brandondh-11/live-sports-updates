@@ -1,12 +1,11 @@
 {
-  "versionName": "1.2.166",
-  "versionCode": 169,
-  "build": "codex-local-v1.2.166-android",
+  "versionName": "1.2.167",
+  "versionCode": 170,
+  "build": "codex-local-v1.2.167-android",
   "notes": [
-    "Correct the AEW Full Gear main card time and show a blue dot beside the score for possession or batting.",
-    "Keep the TV splash logo steady during startup."
+    "Show event posters in the schedule without a logo overlay. Use the show logo and name when artwork is unavailable."
   ],
-  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.166/Live-Sports-1.2.166.apk",
-  "sha256": "39b5755a46373047a29ead04810793b839f7a517c9dedb1d23acb2803871ce51",
-  "bytes": 9874112
+  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.167/Live-Sports-1.2.167.apk",
+  "sha256": "0024ed9cf26af1f6e22989a77169760ff9180f4ff965a9b4ecea7028cb6e1a85",
+  "bytes": 10120290
 }
