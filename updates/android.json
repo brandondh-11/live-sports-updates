@@ -1,11 +1,11 @@
 {
-  "versionName": "1.2.167",
-  "versionCode": 170,
-  "build": "codex-local-v1.2.167-android",
+  "versionName": "1.2.168",
+  "versionCode": 171,
+  "build": "codex-local-v1.2.168-android",
   "notes": [
-    "Show event posters in the schedule without a logo overlay. Use the show logo and name when artwork is unavailable."
+    "Remove the blue dot from the startup screen."
   ],
-  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.167/Live-Sports-1.2.167.apk",
-  "sha256": "0024ed9cf26af1f6e22989a77169760ff9180f4ff965a9b4ecea7028cb6e1a85",
+  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.168/Live-Sports-1.2.168.apk",
+  "sha256": "11f2cbf66d6a4aedcb4d0b8c882f6df6a3749fd50c38070813fb597021f952fe",
   "bytes": 10120290
 }
