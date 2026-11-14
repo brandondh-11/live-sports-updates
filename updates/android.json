@@ -1,12 +1,11 @@
 {
-  "versionName": "1.2.163",
-  "versionCode": 166,
-  "build": "codex-local-v1.2.163-android",
+  "versionName": "1.2.164",
+  "versionCode": 167,
+  "build": "codex-local-v1.2.164-android",
   "notes": [
-    "Detect video startup as soon as playback advances.",
-    "Offer Retry and View player sooner when a stream is slow to start."
+    "Try the next posted server sooner when a Multi View stream fails to start."
   ],
-  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.163/Live-Sports-1.2.163.apk",
-  "sha256": "56855ba21e89097578d0010e27f1ea14227d03e413fd82f2482fac351c66ae42",
+  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.164/Live-Sports-1.2.164.apk",
+  "sha256": "acbd73504af0e0a302fa68d7555b40ef34e462c87ce3165bc48586cfc0ef0b11",
   "bytes": 9874112
 }
