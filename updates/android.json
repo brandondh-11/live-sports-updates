@@ -1,11 +1,11 @@
 {
-  "versionName": "1.2.164",
-  "versionCode": 167,
-  "build": "codex-local-v1.2.164-android",
+  "versionName": "1.2.165",
+  "versionCode": 168,
+  "build": "codex-local-v1.2.165-android",
   "notes": [
-    "Try the next posted server sooner when a Multi View stream fails to start."
+    "Match NFL Network’s LIVE badge to boxing and put BALL beside the score of the team in possession."
   ],
-  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.164/Live-Sports-1.2.164.apk",
-  "sha256": "acbd73504af0e0a302fa68d7555b40ef34e462c87ce3165bc48586cfc0ef0b11",
+  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.165/Live-Sports-1.2.165.apk",
+  "sha256": "8fc414d1f2829db40928b9bf85143fa8249c3f95ea0512b4bbc3db00497083a9",
   "bytes": 9874112
 }
