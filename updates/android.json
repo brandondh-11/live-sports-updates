@@ -1,11 +1,12 @@
 {
-  "versionName": "1.2.170",
-  "versionCode": 173,
-  "build": "codex-local-v1.2.170-android",
+  "versionName": "1.2.171",
+  "versionCode": 174,
+  "build": "codex-local-v1.2.171-android",
   "notes": [
-    "Center show and event titles with start times above them."
+    "Reduce remote navigation work in the TV guide and dialogs.",
+    "Keep focus in Updates while a check runs and preserve expanded release notes."
   ],
-  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.170/Live-Sports-1.2.170.apk",
-  "sha256": "271ce807a4238fe1358e0b037ae29cd6c7aca73c4d4867f5e8d785fc21173683",
+  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.171/Live-Sports-1.2.171.apk",
+  "sha256": "574f0618759975b8edcd7eeba23d4f5c6a0d89b8886afbf11a5b07265540ae2c",
   "bytes": 10120290
 }
