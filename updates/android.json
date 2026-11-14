@@ -1,11 +1,11 @@
 {
-  "versionName": "1.2.168",
-  "versionCode": 171,
-  "build": "codex-local-v1.2.168-android",
+  "versionName": "1.2.169",
+  "versionCode": 172,
+  "build": "codex-local-v1.2.169-android",
   "notes": [
-    "Remove the blue dot from the startup screen."
+    "Use a consistent left tile for TV shows and events, with posters filling the box edge to edge."
   ],
-  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.168/Live-Sports-1.2.168.apk",
-  "sha256": "11f2cbf66d6a4aedcb4d0b8c882f6df6a3749fd50c38070813fb597021f952fe",
+  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.169/Live-Sports-1.2.169.apk",
+  "sha256": "13dc3f116b9e7ef171f0444155262d0a52b6a451826b7f23828fd780cf5aa9a5",
   "bytes": 10120290
 }
