@@ -1,12 +1,12 @@
 {
-  "versionName": "1.2.171",
-  "versionCode": 174,
-  "build": "codex-local-v1.2.171-android",
+  "versionName": "1.2.172",
+  "versionCode": 175,
+  "build": "codex-local-v1.2.172-android",
   "notes": [
-    "Reduce remote navigation work in the TV guide and dialogs.",
-    "Keep focus in Updates while a check runs and preserve expanded release notes."
+    "Open LocalSend directly from playback reports on Android TV.",
+    "Skip the repeated built-in player attempt when an automatic multiview retry revisits the same failed server."
   ],
-  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.171/Live-Sports-1.2.171.apk",
-  "sha256": "574f0618759975b8edcd7eeba23d4f5c6a0d89b8886afbf11a5b07265540ae2c",
+  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.172/Live-Sports-1.2.172.apk",
+  "sha256": "d40dfe947b3b8e0e1345d8879b3161eb19221de990fe799a89fdc2912b37d6f4",
   "bytes": 10120290
 }
