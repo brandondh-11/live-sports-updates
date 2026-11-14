@@ -1,11 +1,12 @@
 {
-  "versionName": "1.2.165",
-  "versionCode": 168,
-  "build": "codex-local-v1.2.165-android",
+  "versionName": "1.2.166",
+  "versionCode": 169,
+  "build": "codex-local-v1.2.166-android",
   "notes": [
-    "Match NFL Network’s LIVE badge to boxing and put BALL beside the score of the team in possession."
+    "Correct the AEW Full Gear main card time and show a blue dot beside the score for possession or batting.",
+    "Keep the TV splash logo steady during startup."
   ],
-  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.165/Live-Sports-1.2.165.apk",
-  "sha256": "8fc414d1f2829db40928b9bf85143fa8249c3f95ea0512b4bbc3db00497083a9",
+  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.166/Live-Sports-1.2.166.apk",
+  "sha256": "39b5755a46373047a29ead04810793b839f7a517c9dedb1d23acb2803871ce51",
   "bytes": 9874112
 }
