@@ -1,11 +1,11 @@
 {
-  "versionName": "1.2.169",
-  "versionCode": 172,
-  "build": "codex-local-v1.2.169-android",
+  "versionName": "1.2.170",
+  "versionCode": 173,
+  "build": "codex-local-v1.2.170-android",
   "notes": [
-    "Use a consistent left tile for TV shows and events, with posters filling the box edge to edge."
+    "Center show and event titles with start times above them."
   ],
-  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.169/Live-Sports-1.2.169.apk",
-  "sha256": "13dc3f116b9e7ef171f0444155262d0a52b6a451826b7f23828fd780cf5aa9a5",
+  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.170/Live-Sports-1.2.170.apk",
+  "sha256": "271ce807a4238fe1358e0b037ae29cd6c7aca73c4d4867f5e8d785fc21173683",
   "bytes": 10120290
 }
