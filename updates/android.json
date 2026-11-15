@@ -1,12 +1,12 @@
 {
-  "versionName": "1.2.173",
-  "versionCode": 176,
-  "build": "codex-local-v1.2.173-android",
+  "versionName": "1.2.174",
+  "versionCode": 177,
+  "build": "codex-local-v1.2.174-android",
   "notes": [
-    "Make playback recovery buttons selectable with the Android TV remote.",
-    "Release failed native players reliably and send native startup exceptions through website fallback."
+    "Fill the show artwork tile edge to edge on phones and tablets.",
+    "Keep AEW pay-per-view cards on air beyond the two-hour weekly TV slot."
   ],
-  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.173/Live-Sports-1.2.173.apk",
-  "sha256": "df3232716f6a41e0902d349415b3ae1c5447b8c629cdd18c8051f993b066dd16",
+  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.174/Live-Sports-1.2.174.apk",
+  "sha256": "008aa4bf3c5c53f7f8328f890093e3f182530469b37623489069116e28e59f9f",
   "bytes": 10120290
 }
