@@ -1,12 +1,12 @@
 {
-  "versionName": "1.2.172",
-  "versionCode": 175,
-  "build": "codex-local-v1.2.172-android",
+  "versionName": "1.2.173",
+  "versionCode": 176,
+  "build": "codex-local-v1.2.173-android",
   "notes": [
-    "Open LocalSend directly from playback reports on Android TV.",
-    "Skip the repeated built-in player attempt when an automatic multiview retry revisits the same failed server."
+    "Make playback recovery buttons selectable with the Android TV remote.",
+    "Release failed native players reliably and send native startup exceptions through website fallback."
   ],
-  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.172/Live-Sports-1.2.172.apk",
-  "sha256": "d40dfe947b3b8e0e1345d8879b3161eb19221de990fe799a89fdc2912b37d6f4",
+  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.173/Live-Sports-1.2.173.apk",
+  "sha256": "df3232716f6a41e0902d349415b3ae1c5447b8c629cdd18c8051f993b066dd16",
   "bytes": 10120290
 }
