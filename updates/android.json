@@ -1,12 +1,12 @@
 {
-  "versionName": "1.2.175",
-  "versionCode": 178,
-  "build": "codex-local-v1.2.175-android",
+  "versionName": "1.2.176",
+  "versionCode": 179,
+  "build": "codex-local-v1.2.176-android",
   "notes": [
-    "Match the LIVE badge on TV game and show cards.",
-    "Stack the game clock and situation below the centered LIVE badge."
+    "Try the built-in web player immediately after a native startup failure.",
+    "Keep website fallback and bounded server retries."
   ],
-  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.175/Live-Sports-1.2.175.apk",
-  "sha256": "b6ee8c2645db5fac3506007e58084db324ebfa2fd6fbabfb79f1fb8f96a4bcf2",
+  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.176/Live-Sports-1.2.176.apk",
+  "sha256": "fb6beacb488f728dbb67c783b06917f8b2d722fb4d539fea233b665d1ceea2d5",
   "bytes": 10124386
 }
