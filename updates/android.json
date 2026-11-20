@@ -1,11 +1,11 @@
 {
-  "versionName": "1.2.191",
-  "versionCode": 194,
-  "build": "codex-local-v1.2.191-android",
+  "versionName": "1.2.192",
+  "versionCode": 195,
+  "build": "codex-local-v1.2.192-android",
   "notes": [
-    "Resume NFL Network in the same player when it resets before showing its first frame."
+    "Keep the first NFL Network page open while its player recovers from a startup reset."
   ],
-  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.191/Live-Sports-1.2.191.apk",
-  "sha256": "b5358b08e870feea1598a18d96cf1ac7979ccef165b1b346fe37cdee9012b109",
+  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.192/Live-Sports-1.2.192.apk",
+  "sha256": "22bf1d365809ec907c294616db6f1032b7e98137526d108130d1fdbc2788640c",
   "bytes": 10128482
 }
