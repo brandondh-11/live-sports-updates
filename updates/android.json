@@ -1,12 +1,13 @@
 {
-  "versionName": "1.2.176",
-  "versionCode": 179,
-  "build": "codex-local-v1.2.176-android",
+  "versionName": "1.2.177",
+  "versionCode": 180,
+  "build": "codex-local-v1.2.177-android",
   "notes": [
-    "Try the built-in web player immediately after a native startup failure.",
-    "Keep website fallback and bounded server retries."
+    "Use the full screen for Multiview videos.",
+    "Remove TNA from the schedule.",
+    "Reduce WebView work while streams start and play."
   ],
-  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.176/Live-Sports-1.2.176.apk",
-  "sha256": "fb6beacb488f728dbb67c783b06917f8b2d722fb4d539fea233b665d1ceea2d5",
+  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.177/Live-Sports-1.2.177.apk",
+  "sha256": "3dc5e358e803d8c186ad0af606ffd9e83752aa619cf7a4de9e4c76f5d207ea3e",
   "bytes": 10124386
 }
