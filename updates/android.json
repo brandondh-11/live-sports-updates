@@ -1,11 +1,11 @@
 {
-  "versionName": "1.2.184",
-  "versionCode": 187,
-  "build": "codex-local-v1.2.184-android",
+  "versionName": "1.2.185",
+  "versionCode": 188,
+  "build": "codex-local-v1.2.185-android",
   "notes": [
-    "Multiview tries every deferred website player before giving up and isolates recovery to the affected tile."
+    "Start five- and six-game Multiview grids at the lowest available HLS video quality and request a 360p cap in the grid."
   ],
-  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.184/Live-Sports-1.2.184.apk",
-  "sha256": "96459cb9f30b522e52355407a2b1ebb56b195277a1d4e71bf9986c1f08df158a",
+  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.185/Live-Sports-1.2.185.apk",
+  "sha256": "363fbea242fb1a3a7cd08383cf401e420bb500957e0dce6f6c43538dc28738fb",
   "bytes": 10124386
 }
