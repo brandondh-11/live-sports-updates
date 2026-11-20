@@ -1,11 +1,11 @@
 {
-  "versionName": "1.2.188",
-  "versionCode": 191,
-  "build": "codex-local-v1.2.188-android",
+  "versionName": "1.2.189",
+  "versionCode": 192,
+  "build": "codex-local-v1.2.189-android",
   "notes": [
-    "Align the playback report buttons and retry NFL Network once when startup goes idle before the first frame."
+    "Let NFL Network's website player finish loading without competing Play commands from the Android app."
   ],
-  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.188/Live-Sports-1.2.188.apk",
-  "sha256": "df4d6829c09addcaabd513d04a7c92929f853cc41101b08dfa22975b2311dc12",
+  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.189/Live-Sports-1.2.189.apk",
+  "sha256": "da72c7bec53227c945364c0e20cec763e0b333c3a428466ca836d3fb9543213c",
   "bytes": 10128482
 }
