@@ -1,11 +1,11 @@
 {
-  "versionName": "1.2.182",
-  "versionCode": 185,
-  "build": "codex-local-v1.2.182-android",
+  "versionName": "1.2.183",
+  "versionCode": 186,
+  "build": "codex-local-v1.2.183-android",
   "notes": [
-    "Give stalled Multiview tiles one bounded Android native-player startup attempt after both web paths fail."
+    "Larger animated TV artwork and Game On lettering on the TV startup screen."
   ],
-  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.182/Live-Sports-1.2.182.apk",
-  "sha256": "f6f976099ab578fa886a975009c7097c487d9f7f76b08c18ecbe768c3fa80daf",
+  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.183/Live-Sports-1.2.183.apk",
+  "sha256": "642a6214b925f854df26e5fcf926e38deb74ce4bccd24ff8da26304637f89ba9",
   "bytes": 10124386
 }
