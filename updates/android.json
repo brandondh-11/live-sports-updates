@@ -1,11 +1,11 @@
 {
-  "versionName": "1.2.186",
-  "versionCode": 189,
-  "build": "codex-local-v1.2.186-android",
+  "versionName": "1.2.187",
+  "versionCode": 190,
+  "build": "codex-local-v1.2.187-android",
   "notes": [
-    "Keep per-tile playback failure details and report video size, frame counts, HLS quality and Android player startup state."
+    "Display away teams on the left and home teams on the right. Apply the Multiview quality target when loading the built-in player."
   ],
-  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.186/Live-Sports-1.2.186.apk",
-  "sha256": "a657c87c17635dd8b68945689bd6e2968dce55b72a63c43ad3e0099994230c34",
+  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.187/Live-Sports-1.2.187.apk",
+  "sha256": "a3861b2efac0db8e9972dab579da5a1054acd98aad55bf69f42f6347234a4d34",
   "bytes": 10128482
 }
