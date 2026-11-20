@@ -1,11 +1,11 @@
 {
-  "versionName": "1.2.192",
-  "versionCode": 195,
-  "build": "codex-local-v1.2.192-android",
+  "versionName": "1.2.193",
+  "versionCode": 196,
+  "build": "codex-local-v1.2.193-android",
   "notes": [
-    "Keep the first NFL Network page open while its player recovers from a startup reset."
+    "Show college basketball periods as 1st and 2nd, reduce unnecessary live score updates, and preserve search navigation during schedule refreshes."
   ],
-  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.192/Live-Sports-1.2.192.apk",
-  "sha256": "22bf1d365809ec907c294616db6f1032b7e98137526d108130d1fdbc2788640c",
+  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.193/Live-Sports-1.2.193.apk",
+  "sha256": "57c9be125e8a31926e7fd5b424deaf46765e1ed63932aa2f2ed14a30281b76f3",
   "bytes": 10128482
 }
