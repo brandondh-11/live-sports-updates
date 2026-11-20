@@ -1,13 +1,14 @@
 {
-  "versionName": "1.2.177",
-  "versionCode": 180,
-  "build": "codex-local-v1.2.177-android",
+  "versionName": "1.2.178",
+  "versionCode": 181,
+  "build": "codex-local-v1.2.178-android",
   "notes": [
-    "Use the full screen for Multiview videos.",
-    "Remove TNA from the schedule.",
-    "Reduce WebView work while streams start and play."
+    "Use gold across playoff and championship cards.",
+    "Center the Multiview score overlay.",
+    "Try freshly resolved media after a failed website startup.",
+    "Extend fullscreen phone video into the top display area."
   ],
-  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.177/Live-Sports-1.2.177.apk",
-  "sha256": "3dc5e358e803d8c186ad0af606ffd9e83752aa619cf7a4de9e4c76f5d207ea3e",
+  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.178/Live-Sports-1.2.178.apk",
+  "sha256": "5cd6429c49603a670d674bcf57b5cb5575d5112331ab0486699f5454b86dbd1d",
   "bytes": 10124386
 }
