@@ -1,12 +1,12 @@
 {
-  "versionName": "1.2.180",
-  "versionCode": 183,
-  "build": "codex-local-v1.2.180-android",
+  "versionName": "1.2.181",
+  "versionCode": 184,
+  "build": "codex-local-v1.2.181-android",
   "notes": [
-    "Give the earliest skipped server website one final attempt in Multiview.",
-    "Record startup timeouts that occur before player telemetry arrives."
+    "Move Clear saved report to the top action row.",
+    "Load the bundled video engine as a local asset to reduce Android WebView startup document size."
   ],
-  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.180/Live-Sports-1.2.180.apk",
-  "sha256": "b673f1ea4fad531a82138fa02ce154747b9ba88931ee95b510c24ecba2140cd6",
+  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.181/Live-Sports-1.2.181.apk",
+  "sha256": "c038c6c2e4d135fa8c54f91a822214832cb076ee7e5c944bbb9512f1c3a44c11",
   "bytes": 10124386
 }
