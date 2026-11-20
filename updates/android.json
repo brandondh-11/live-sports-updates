@@ -1,11 +1,11 @@
 {
-  "versionName": "1.2.187",
-  "versionCode": 190,
-  "build": "codex-local-v1.2.187-android",
+  "versionName": "1.2.188",
+  "versionCode": 191,
+  "build": "codex-local-v1.2.188-android",
   "notes": [
-    "Display away teams on the left and home teams on the right. Apply the Multiview quality target when loading the built-in player."
+    "Align the playback report buttons and retry NFL Network once when startup goes idle before the first frame."
   ],
-  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.187/Live-Sports-1.2.187.apk",
-  "sha256": "a3861b2efac0db8e9972dab579da5a1054acd98aad55bf69f42f6347234a4d34",
+  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.188/Live-Sports-1.2.188.apk",
+  "sha256": "df4d6829c09addcaabd513d04a7c92929f853cc41101b08dfa22975b2311dc12",
   "bytes": 10128482
 }
