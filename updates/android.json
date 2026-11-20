@@ -1,11 +1,11 @@
 {
-  "versionName": "1.2.189",
-  "versionCode": 192,
-  "build": "codex-local-v1.2.189-android",
+  "versionName": "1.2.190",
+  "versionCode": 193,
+  "build": "codex-local-v1.2.190-android",
   "notes": [
-    "Let NFL Network's website player finish loading without competing Play commands from the Android app."
+    "Automatically start NFL Network with a single Play action and recover sooner if the player remains stuck before its first frame."
   ],
-  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.189/Live-Sports-1.2.189.apk",
-  "sha256": "da72c7bec53227c945364c0e20cec763e0b333c3a428466ca836d3fb9543213c",
+  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.190/Live-Sports-1.2.190.apk",
+  "sha256": "03d12aec9a71d904e34222d6865911245ac6b6fac59d81886a5539abd0d4d213",
   "bytes": 10128482
 }
