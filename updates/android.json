@@ -1,14 +1,12 @@
 {
-  "versionName": "1.2.178",
-  "versionCode": 181,
-  "build": "codex-local-v1.2.178-android",
+  "versionName": "1.2.179",
+  "versionCode": 182,
+  "build": "codex-local-v1.2.179-android",
   "notes": [
-    "Use gold across playoff and championship cards.",
-    "Center the Multiview score overlay.",
-    "Try freshly resolved media after a failed website startup.",
-    "Extend fullscreen phone video into the top display area."
+    "Try a second supported stream quality when an Android Multiview tile cannot display its first frame.",
+    "Keep the startup deadline separate from buffering after playback begins."
   ],
-  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.178/Live-Sports-1.2.178.apk",
-  "sha256": "5cd6429c49603a670d674bcf57b5cb5575d5112331ab0486699f5454b86dbd1d",
+  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.179/Live-Sports-1.2.179.apk",
+  "sha256": "419f60fe62bad56e194f73497065fd9d5146bede75494fcf8ef7acd06625bfe1",
   "bytes": 10124386
 }
