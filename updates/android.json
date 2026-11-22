@@ -1,11 +1,11 @@
 {
-  "versionName": "1.2.196",
-  "versionCode": 199,
-  "build": "codex-local-v1.2.196-android",
+  "versionName": "1.2.197",
+  "versionCode": 200,
+  "build": "codex-local-v1.2.197-android",
   "notes": [
-    "Scale the animated splash for phones, foldables and tablets in both orientations."
+    "Replace a game in multiview and see failed games at the top of playback reports."
   ],
-  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.196/Live-Sports-1.2.196.apk",
-  "sha256": "087b9a5324c1de82aa78aa21a6bd22caf73e343bb8fb871078cfe60e5e76c8b3",
+  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.197/Live-Sports-1.2.197.apk",
+  "sha256": "34959a5ba0e277e40d6081ccd4303759ead382776d2e868adf10f62de3597801",
   "bytes": 10259735
 }
