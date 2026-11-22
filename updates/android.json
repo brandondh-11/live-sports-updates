@@ -1,11 +1,11 @@
 {
-  "versionName": "1.2.203",
-  "versionCode": 206,
-  "build": "codex-local-v1.2.203-android",
+  "versionName": "1.2.204",
+  "versionCode": 207,
+  "build": "codex-local-v1.2.204-android",
   "notes": [
-    "Keep Sunday noon NFL games under one header with NFL RedZone first."
+    "Keep NFL RedZone and every Sunday noon game together during startup and refresh."
   ],
-  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.203/Live-Sports-1.2.203.apk",
-  "sha256": "2248071cbf3bb153d0c9f81d646e359d1e0135e879fe395ec48336a3374c2980",
+  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.204/Live-Sports-1.2.204.apk",
+  "sha256": "eaefda51d52145f4007de1e3d39475b637982ec99f7aba8bf6bd4f8b398d2555",
   "bytes": 10267927
 }
