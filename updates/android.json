@@ -1,11 +1,11 @@
 {
-  "versionName": "1.2.202",
-  "versionCode": 205,
-  "build": "codex-local-v1.2.202-android",
+  "versionName": "1.2.203",
+  "versionCode": 206,
+  "build": "codex-local-v1.2.203-android",
   "notes": [
-    "Reduce redundant schedule date processing and remote preview work."
+    "Keep Sunday noon NFL games under one header with NFL RedZone first."
   ],
-  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.202/Live-Sports-1.2.202.apk",
-  "sha256": "93a4967efa59cc276fd82f1e166d877399dd6e091ea34134dcf1dffd57c2bd33",
-  "bytes": 10263831
+  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.203/Live-Sports-1.2.203.apk",
+  "sha256": "2248071cbf3bb153d0c9f81d646e359d1e0135e879fe395ec48336a3374c2980",
+  "bytes": 10267927
 }
