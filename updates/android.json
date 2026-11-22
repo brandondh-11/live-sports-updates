@@ -1,11 +1,11 @@
 {
-  "versionName": "1.2.207",
-  "versionCode": 210,
-  "build": "codex-local-v1.2.207-android",
+  "versionName": "1.2.208",
+  "versionCode": 211,
+  "build": "codex-local-v1.2.208-android",
   "notes": [
-    "Keep the Multi View Watch button visible while scrolling and move on sooner from servers that produce no video."
+    "Keep live games above completed games when Sunday NFL games finish at different times."
   ],
-  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.207/Live-Sports-1.2.207.apk",
-  "sha256": "fbb04f47431661758781523ca8ae47c6f0eae60676146d61d3cf83160c17a0da",
+  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.208/Live-Sports-1.2.208.apk",
+  "sha256": "6c00c1a9eabc523bba0890133a29be7fd57cfe5ee0af40f206ee78994db9cab1",
   "bytes": 10272023
 }
