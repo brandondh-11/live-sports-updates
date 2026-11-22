@@ -1,11 +1,11 @@
 {
-  "versionName": "1.2.198",
-  "versionCode": 201,
-  "build": "codex-local-v1.2.198-android",
+  "versionName": "1.2.199",
+  "versionCode": 202,
+  "build": "codex-local-v1.2.199-android",
   "notes": [
-    "Choose from live games when replacing a multiview tile. Updated player menus match the schedule."
+    "See team logos, scores and the game clock when replacing a multiview tile."
   ],
-  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.198/Live-Sports-1.2.198.apk",
-  "sha256": "d845dd50f902587e922cce2822f657ef5cdb8593f71e221678c0d075644af266",
-  "bytes": 10259735
+  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.199/Live-Sports-1.2.199.apk",
+  "sha256": "973578774bc3b380640eb5c81c3701a62ff3ed40b27abf946251c26500457e73",
+  "bytes": 10263831
 }
