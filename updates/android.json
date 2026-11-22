@@ -1,11 +1,11 @@
 {
-  "versionName": "1.2.194",
-  "versionCode": 197,
-  "build": "codex-local-v1.2.194-android",
+  "versionName": "1.2.195",
+  "versionCode": 198,
+  "build": "codex-local-v1.2.195-android",
   "notes": [
-    "Place the ranking after the left team name on schedule cards."
+    "Add the night stadium splash background and match the Game On period to the TV button."
   ],
-  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.194/Live-Sports-1.2.194.apk",
-  "sha256": "25877ec548424fb68aac50715157811b378c6b3e833bfde072386d3c938cb8a3",
-  "bytes": 10128482
+  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.195/Live-Sports-1.2.195.apk",
+  "sha256": "4aecd421decaa62d51191a9880b5d0d3270aa6b4184981cd4fb64a0cac97ec7f",
+  "bytes": 10202296
 }
