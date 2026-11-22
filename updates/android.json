@@ -1,11 +1,11 @@
 {
-  "versionName": "1.2.197",
-  "versionCode": 200,
-  "build": "codex-local-v1.2.197-android",
+  "versionName": "1.2.198",
+  "versionCode": 201,
+  "build": "codex-local-v1.2.198-android",
   "notes": [
-    "Replace a game in multiview and see failed games at the top of playback reports."
+    "Choose from live games when replacing a multiview tile. Updated player menus match the schedule."
   ],
-  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.197/Live-Sports-1.2.197.apk",
-  "sha256": "34959a5ba0e277e40d6081ccd4303759ead382776d2e868adf10f62de3597801",
+  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.198/Live-Sports-1.2.198.apk",
+  "sha256": "d845dd50f902587e922cce2822f657ef5cdb8593f71e221678c0d075644af266",
   "bytes": 10259735
 }
