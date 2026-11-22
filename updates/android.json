@@ -1,11 +1,11 @@
 {
-  "versionName": "1.2.195",
-  "versionCode": 198,
-  "build": "codex-local-v1.2.195-android",
+  "versionName": "1.2.196",
+  "versionCode": 199,
+  "build": "codex-local-v1.2.196-android",
   "notes": [
-    "Add the night stadium splash background and match the Game On period to the TV button."
+    "Scale the animated splash for phones, foldables and tablets in both orientations."
   ],
-  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.195/Live-Sports-1.2.195.apk",
-  "sha256": "4aecd421decaa62d51191a9880b5d0d3270aa6b4184981cd4fb64a0cac97ec7f",
-  "bytes": 10202296
+  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.196/Live-Sports-1.2.196.apk",
+  "sha256": "087b9a5324c1de82aa78aa21a6bd22caf73e343bb8fb871078cfe60e5e76c8b3",
+  "bytes": 10259735
 }
