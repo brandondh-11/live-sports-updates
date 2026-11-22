@@ -1,11 +1,11 @@
 {
-  "versionName": "1.2.206",
-  "versionCode": 209,
-  "build": "codex-local-v1.2.206-android",
+  "versionName": "1.2.207",
+  "versionCode": 210,
+  "build": "codex-local-v1.2.207-android",
   "notes": [
-    "Refresh Multi View scores during playback on Android phones, tablets, and TV."
+    "Keep the Multi View Watch button visible while scrolling and move on sooner from servers that produce no video."
   ],
-  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.206/Live-Sports-1.2.206.apk",
-  "sha256": "3559e1e2c5d0328a29cdc9eeb86aa2d36bc0d31129a7cc1258d6f51af4bfae17",
-  "bytes": 10267927
+  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.207/Live-Sports-1.2.207.apk",
+  "sha256": "fbb04f47431661758781523ca8ae47c6f0eae60676146d61d3cf83160c17a0da",
+  "bytes": 10272023
 }
