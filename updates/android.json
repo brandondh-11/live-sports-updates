@@ -1,11 +1,11 @@
 {
-  "versionName": "1.2.193",
-  "versionCode": 196,
-  "build": "codex-local-v1.2.193-android",
+  "versionName": "1.2.194",
+  "versionCode": 197,
+  "build": "codex-local-v1.2.194-android",
   "notes": [
-    "Show college basketball periods as 1st and 2nd, reduce unnecessary live score updates, and preserve search navigation during schedule refreshes."
+    "Place the ranking after the left team name on schedule cards."
   ],
-  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.193/Live-Sports-1.2.193.apk",
-  "sha256": "57c9be125e8a31926e7fd5b424deaf46765e1ed63932aa2f2ed14a30281b76f3",
+  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.194/Live-Sports-1.2.194.apk",
+  "sha256": "25877ec548424fb68aac50715157811b378c6b3e833bfde072386d3c938cb8a3",
   "bytes": 10128482
 }
