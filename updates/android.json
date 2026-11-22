@@ -1,11 +1,11 @@
 {
-  "versionName": "1.2.209",
-  "versionCode": 212,
-  "build": "codex-local-v1.2.209-android",
+  "versionName": "1.2.210",
+  "versionCode": 213,
+  "build": "codex-local-v1.2.210-android",
   "notes": [
-    "Show team logos in equally sized Multi View selection boxes."
+    "Fade the Multi View Replace button when video starts on Android phones and tablets. Tap a video tile to show Replace again."
   ],
-  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.209/Live-Sports-1.2.209.apk",
-  "sha256": "4a7c2d5e54aa2fd957bb65704d6da322492d17a5fa6a9f5970f6e70db464b786",
+  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.210/Live-Sports-1.2.210.apk",
+  "sha256": "c68280f3d9507e7935697cb74b178a07757cb796c4c12f56d6c761c3ca335764",
   "bytes": 10272023
 }
