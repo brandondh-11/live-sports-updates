@@ -1,11 +1,11 @@
 {
-  "versionName": "1.2.201",
-  "versionCode": 204,
-  "build": "codex-local-v1.2.201-android",
+  "versionName": "1.2.202",
+  "versionCode": 205,
+  "build": "codex-local-v1.2.202-android",
   "notes": [
-    "Center scores and game periods in the replacement picker. Add Replace buttons to phone and tablet multiview."
+    "Reduce redundant schedule date processing and remote preview work."
   ],
-  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.201/Live-Sports-1.2.201.apk",
-  "sha256": "194a7f6c3131a7c061f06965046ddc8769ede49b61e7c8caf2df67ded4627f3c",
+  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.202/Live-Sports-1.2.202.apk",
+  "sha256": "93a4967efa59cc276fd82f1e166d877399dd6e091ea34134dcf1dffd57c2bd33",
   "bytes": 10263831
 }
