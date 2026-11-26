@@ -1,12 +1,11 @@
 {
-  "versionName": "1.2.215",
-  "versionCode": 218,
-  "build": "codex-local-v1.2.215-android",
+  "versionName": "1.2.216",
+  "versionCode": 219,
+  "build": "codex-local-v1.2.216-android",
   "notes": [
-    "Keep the full playoff and championship card gold before, during, and after play.",
-    "Improve schedule refresh and playback reliability."
+    "Playoff and championship matchups stay gold. The reminder bell and + Multi View use the standard colors."
   ],
-  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.215/Live-Sports-1.2.215.apk",
-  "sha256": "bacd9393890ea6bc6b4f00d8e2fe975272bfe11278c4e12f14093bb29e0ec208",
+  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.216/Live-Sports-1.2.216.apk",
+  "sha256": "08f68a148791b8bd6d925bc3084fc9fccf051d6d49de7b19b20451af3ed86c44",
   "bytes": 10526059
 }
