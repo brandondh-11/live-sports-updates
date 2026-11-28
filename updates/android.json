@@ -1,11 +1,11 @@
 {
-  "versionName": "1.2.217",
-  "versionCode": 220,
-  "build": "codex-local-v1.2.217-android",
+  "versionName": "1.2.218",
+  "versionCode": 221,
+  "build": "codex-local-v1.2.218-android",
   "notes": [
-    "Move the blue possession dot to the left of its team’s score in phone view."
+    "Center the quarter and game clock vertically in green live TV schedule cards."
   ],
-  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.217/Live-Sports-1.2.217.apk",
-  "sha256": "910538ea0a04479917240ffd8ddba57228e84830f93d6a42e8f7cd9c8c11c61f",
+  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.218/Live-Sports-1.2.218.apk",
+  "sha256": "2a386fae5840538e9e041d289ff8a0ad6d767e28ad18589fafbb95306abb6f29",
   "bytes": 10526059
 }
