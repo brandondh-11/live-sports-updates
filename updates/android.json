@@ -1,11 +1,11 @@
 {
-  "versionName": "1.2.224",
-  "versionCode": 227,
-  "build": "codex-local-v1.2.224-android",
+  "versionName": "1.2.225",
+  "versionCode": 228,
+  "build": "codex-local-v1.2.225-android",
   "notes": [
-    "Make the Multi View selection cards more compact, with LIVE above the game clock and period on phone, tablet and TV."
+    "Simplify the Multi View selection cards to two team logos with a small Vs between them."
   ],
-  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.224/Live-Sports-1.2.224.apk",
-  "sha256": "2c34750d7d7ac698ab1dba3c7a0f0e341d22fbc02d3c2f4106c670a97752f8f5",
+  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.225/Live-Sports-1.2.225.apk",
+  "sha256": "cb596122990ef2391dcd74611b51a7c44099752e21896dabe040a02563a61cc5",
   "bytes": 10526138
 }
