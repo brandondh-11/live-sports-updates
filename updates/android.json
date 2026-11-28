@@ -1,11 +1,11 @@
 {
-  "versionName": "1.2.221",
-  "versionCode": 224,
-  "build": "codex-local-v1.2.221-android",
+  "versionName": "1.2.222",
+  "versionCode": 225,
+  "build": "codex-local-v1.2.222-android",
   "notes": [
-    "Show only the speaker icon at the top of Multi View, with matchup names and live scores in the bottom score strip."
+    "Championship and playoff cards now show a full-width title above the matchup in tablet view."
   ],
-  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.221/Live-Sports-1.2.221.apk",
-  "sha256": "193c8fa4dc20fff424eb75f99f97a43d254ad3bf4a796c6fc2e734791993cefb",
+  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.222/Live-Sports-1.2.222.apk",
+  "sha256": "d06da6921c5b6a920cc5e8aeb496946119e8c45a6f254de17c7b501b06837ccd",
   "bytes": 10526138
 }
