@@ -1,11 +1,11 @@
 {
-  "versionName": "1.2.229",
-  "versionCode": 232,
-  "build": "codex-local-v1.2.229-android",
+  "versionName": "1.2.230",
+  "versionCode": 233,
+  "build": "codex-local-v1.2.230-android",
   "notes": [
-    "Center the Multi View title and selection count above the game cards."
+    "Update the splash screen with a swiveling TV antenna and mint-green signal lock."
   ],
-  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.229/Live-Sports-1.2.229.apk",
-  "sha256": "bb020223a967720b3b030207cf513fcd3921d0b9e9bcdef86090f077e7646393",
+  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.230/Live-Sports-1.2.230.apk",
+  "sha256": "2fe051f4d0b54bf67b05b2e44fc541eee397b5ad35858004ee6d6dbee3fc0f84",
   "bytes": 10526138
 }
