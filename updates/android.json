@@ -1,11 +1,11 @@
 {
-  "versionName": "1.2.228",
-  "versionCode": 231,
-  "build": "codex-local-v1.2.228-android",
+  "versionName": "1.2.229",
+  "versionCode": 232,
+  "build": "codex-local-v1.2.229-android",
   "notes": [
-    "Keep the full NFL Network logo visible in the selected Multi View card."
+    "Center the Multi View title and selection count above the game cards."
   ],
-  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.228/Live-Sports-1.2.228.apk",
-  "sha256": "3747bf5ea23e6afb3cbecf90834ad63bda3c50dc94bd5b56a357044506d031c7",
+  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.229/Live-Sports-1.2.229.apk",
+  "sha256": "bb020223a967720b3b030207cf513fcd3921d0b9e9bcdef86090f077e7646393",
   "bytes": 10526138
 }
