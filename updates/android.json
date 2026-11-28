@@ -1,11 +1,11 @@
 {
-  "versionName": "1.2.218",
-  "versionCode": 221,
-  "build": "codex-local-v1.2.218-android",
+  "versionName": "1.2.219",
+  "versionCode": 222,
+  "build": "codex-local-v1.2.219-android",
   "notes": [
-    "Center the quarter and game clock vertically in green live TV schedule cards."
+    "Clearer TV focus, aligned phone scores, fading Multi View labels with an audio indicator, and a dedicated championship title line on TV."
   ],
-  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.218/Live-Sports-1.2.218.apk",
-  "sha256": "2a386fae5840538e9e041d289ff8a0ad6d767e28ad18589fafbb95306abb6f29",
-  "bytes": 10526059
+  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.219/Live-Sports-1.2.219.apk",
+  "sha256": "ab066fe31f5c8100ecbf158e7425a578d4db377518629cf912fdb130d8a7a443",
+  "bytes": 10526138
 }
