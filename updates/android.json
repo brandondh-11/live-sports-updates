@@ -1,11 +1,11 @@
 {
-  "versionName": "1.2.227",
-  "versionCode": 230,
-  "build": "codex-local-v1.2.227-android",
+  "versionName": "1.2.228",
+  "versionCode": 231,
+  "build": "codex-local-v1.2.228-android",
   "notes": [
-    "Space selected Multi View games evenly on tablets and TV, with a divider and an icon-only play button."
+    "Keep the full NFL Network logo visible in the selected Multi View card."
   ],
-  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.227/Live-Sports-1.2.227.apk",
-  "sha256": "4a2c3bfa560d0ae895703cbbd8776cd8fbdad24f769c2d051f44fdc0d9213814",
+  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.228/Live-Sports-1.2.228.apk",
+  "sha256": "3747bf5ea23e6afb3cbecf90834ad63bda3c50dc94bd5b56a357044506d031c7",
   "bytes": 10526138
 }
