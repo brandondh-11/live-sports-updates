@@ -1,11 +1,11 @@
 {
-  "versionName": "1.2.222",
-  "versionCode": 225,
-  "build": "codex-local-v1.2.222-android",
+  "versionName": "1.2.223",
+  "versionCode": 226,
+  "build": "codex-local-v1.2.223-android",
   "notes": [
-    "Championship and playoff cards now show a full-width title above the matchup in tablet view."
+    "Redesign the tablet Multi View selection tray with numbered matchup cards, scores, live status, and six games in one landscape row."
   ],
-  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.222/Live-Sports-1.2.222.apk",
-  "sha256": "d06da6921c5b6a920cc5e8aeb496946119e8c45a6f254de17c7b501b06837ccd",
+  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.223/Live-Sports-1.2.223.apk",
+  "sha256": "0d653e7bcde058772f4ede5bdd1cabe84852a80d9f4d8d6faa090f3d8f9febb9",
   "bytes": 10526138
 }
