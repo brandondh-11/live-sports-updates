@@ -1,11 +1,11 @@
 {
-  "versionName": "1.2.219",
-  "versionCode": 222,
-  "build": "codex-local-v1.2.219-android",
+  "versionName": "1.2.220",
+  "versionCode": 223,
+  "build": "codex-local-v1.2.220-android",
   "notes": [
-    "Clearer TV focus, aligned phone scores, fading Multi View labels with an audio indicator, and a dedicated championship title line on TV."
+    "Keep the TV show focus ring above the artwork and show Multi View matchup labels and audio status during normal use."
   ],
-  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.219/Live-Sports-1.2.219.apk",
-  "sha256": "ab066fe31f5c8100ecbf158e7425a578d4db377518629cf912fdb130d8a7a443",
+  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.220/Live-Sports-1.2.220.apk",
+  "sha256": "87e6247dc58eb5e346cd5d8c1261088b7e94457fdc6a09c11462afb2cb09a32c",
   "bytes": 10526138
 }
