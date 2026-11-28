@@ -1,11 +1,11 @@
 {
-  "versionName": "1.2.220",
-  "versionCode": 223,
-  "build": "codex-local-v1.2.220-android",
+  "versionName": "1.2.221",
+  "versionCode": 224,
+  "build": "codex-local-v1.2.221-android",
   "notes": [
-    "Keep the TV show focus ring above the artwork and show Multi View matchup labels and audio status during normal use."
+    "Show only the speaker icon at the top of Multi View, with matchup names and live scores in the bottom score strip."
   ],
-  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.220/Live-Sports-1.2.220.apk",
-  "sha256": "87e6247dc58eb5e346cd5d8c1261088b7e94457fdc6a09c11462afb2cb09a32c",
+  "livesportsApkUrl": "https://github.com/brandondh-11/live-sports-updates/releases/download/v1.2.221/Live-Sports-1.2.221.apk",
+  "sha256": "193c8fa4dc20fff424eb75f99f97a43d254ad3bf4a796c6fc2e734791993cefb",
   "bytes": 10526138
 }
